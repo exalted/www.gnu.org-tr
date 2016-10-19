@@ -1,0 +1,157 @@
+# Turkish translations for companies.html package
+# companies.html paketi için Türkçe çeviriler
+# Copyright (C) 2010 Free Software Foundation, Inc.
+# This file is distributed under the same license as the companies.html package.
+# Ali Servet Donmez <asd@pittle.org>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: companies.html\n"
+"POT-Creation-Date: 2009-06-29 16:25-0300\n"
+"PO-Revision-Date: 2010-06-03 18:00+0200\n"
+"Last-Translator: Erdem Artan <baDibere@gmail.com>\n"
+"Language-Team: Turkish <www-tr-comm@gnu.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Language: tr_TR\n"
+
+# type: Content of: <title>
+msgid ""
+"Companies that sell computers with GNU/Linux preinstalled - GNU Project - "
+"Free Software Foundation (FSF)"
+msgstr ""
+"GNU/Linux yüklenmiş bilgisayar satan şirketler - GNU Projesi - Özgür Yazılım "
+"Vakfı (FSF)"
+
+# type: Attribute 'content' of: <meta>
+msgid "Free Software Foundation, Inc"
+msgstr ""
+
+# type: Attribute 'content' of: <meta>
+msgid "no"
+msgstr ""
+
+# type: Attribute 'content' of: <meta>
+msgid "WAI AA, XHTML, CSS, Semantic Markup, Tableless Design, Freedom"
+msgstr ""
+
+# type: Attribute 'title' of: <link>
+msgid "What's New"
+msgstr "Yenilikler"
+
+# type: Attribute 'content' of: <meta>
+msgid "Free Software Operating System GNU/Linux"
+msgstr "Özgür Yazılım İşletim Sistemi GNU/Linux"
+
+# type: Attribute 'content' of: <meta>
+msgid "Free Software Foundation"
+msgstr "Özgür Yazılım Vakfı"
+
+# type: Attribute 'content' of: <meta>
+msgid "Web Page"
+msgstr ""
+
+# type: Attribute 'content' of: <meta>
+msgid "text/html"
+msgstr ""
+
+# type: Attribute 'content' of: <meta>
+msgid "en"
+msgstr "tr"
+
+# type: Content of: <h2>
+msgid ""
+"Companies that sell computers with <acronym title=\"GNU's Not Unix!\">GNU</"
+"acronym>/Linux preinstalled"
+msgstr ""
+"<acronym title=\"GNU's Not Unix!\">GNU</acronym>/Linux yüklenmiş bilgisayar "
+"satan şirketler"
+
+# type: Content of: <p>
+msgid ""
+"<a href=\"http://laclinux.com/gnu/Start\">Los Alamos Computers (LAC)</a> "
+"sells laptops, desktops and servers preinstalled with <a href=\"/distros"
+"\">fully free <acronym>GNU</acronym>/Linux distributions</a>, including <a "
+"href=\"http://gnewsense.org\">gNewSense</a>. In addition, they donate a "
+"portion of every sale of such systems to the FSF."
+msgstr ""
+"<a href=\"http://laclinux.com/gnu/Start\">Los Alamos Computers (LAC)</a>, <a "
+"href=\"http://gnewsense.org\">gNewSense</a>'i de içeren <a href=\"/distros"
+"\">tamamen özgür <acronym>GNU</acronym>/Linux dağıtımları</a> yüklenmiş "
+"dizüstü, masaüstü ve sunucu bilgisayarlar satmakta. Ayrıca, bu sistemlerin "
+"her satıştan elde edilen gelirin bir kısmı ile FSF'ye bağışta bulunuyorlar."
+
+# type: Content of: <p>
+msgid ""
+"<a href=\"http://www.inatux.com/gnu\">InaTux</a> also offers computers "
+"preinstalled with gNewSense."
+msgstr ""
+"<a href=\"http://www.inatux.com/gnu\">InaTux</a> de gNewSense yüklü "
+"bilgisayarlar sunmakta."
+
+# type: Content of: <p>
+msgid ""
+"You may check out and promote an <a href=\"http://www.ideastorm.com/article/"
+"show/63082/Preinstall_gNewSense_on_laptops_and_desktops\">idea about "
+"gNewSense being preinstalled on computers from Dell</a>."
+msgstr ""
+"<a href=\"http://www.ideastorm.com/article/show/63082/"
+"Preinstall_gNewSense_on_laptops_and_desktops\">Dell'den gNewSense yüklenmiş "
+"bilgisayarlar fikrini</a> gözden geçirebilir ve destekleyebilirsiniz."
+
+# type: Content of: <div>
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+# type: Content of: <div><p>
+msgid ""
+"Please send FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org\">&lt;"
+"gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways to "
+"contact</a> the FSF.  <br /> Please send broken links and other corrections "
+"or suggestions to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Lütfen FSF ve GNU hakkındaki sorularınızı <a href=\"mailto:gnu@gnu.org"
+"\"><em>gnu@gnu.org</em></a> adresine gönderin. FSF ile iletişime geçmenin <a "
+"href=\"/contact/\">başka yolları</a> da vardır.<br /> Lütfen çalışmayan "
+"bağlantıları ve diğer düzeltmelerinizi (ya da önerilerinizi) <a href=\"\n"
+"\"mailto:webmasters@gnu.org\"><em>webmasters@gnu.org</em></a> adresine "
+"gönderin."
+
+# type: Content of: <div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"Bu yazının çeviri düzenlemesi ve sunuşu ile ilgili bilgi için lütfen <a href="
+"\"/server/standards/README.translations.html\">Çeviriler BENİOKU</"
+"a>sayfasına bakın. "
+
+# type: Content of: <div><div>
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"<p><strong>Çeviriye katkıda bulunanlar:</strong></p>\n"
+"<ul>\n"
+"\n"
+"<li>\n"
+"Erdem Artan\n"
+"<a href=\"mailto:baDibere@gmail.c0m\">&lt;baDibere@gmail.c0m&gt;</a>,\n"
+"2008.\n"
+"</li>\n"
+"</ul>"
+
+# type: Content of: <div><p>
+#.  timestamp start
+msgid "Updated:"
+msgstr "Son Güncelleme:"
+
+# type: Content of: <div><h4>
+msgid "Translations of this page"
+msgstr ""
+"Bu sayfanın diğer dillere <a href=\"/server/standards/README.translations."
+"html\">çevirileri</a>:"

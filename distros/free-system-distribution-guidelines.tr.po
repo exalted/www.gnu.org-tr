@@ -1,0 +1,384 @@
+# Turkish translations for free-system-distribution-guidelines.html package
+# free-system-distribution-guidelines.html paketi için Türkçe çeviriler
+# Copyright (C) 2010 Free Software Foundation, Inc.
+# This file is distributed under the same license as the free-system-distribution-guidelines.html package.
+# Ali Servet Donmez <asd@pittle.org>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: free-system-distribution-guidelines.html\n"
+"POT-Creation-Date: 2010-05-20 04:25-0300\n"
+"PO-Revision-Date: 2010-06-03 17:58+0200\n"
+"Last-Translator: Ali Servet Donmez <asd@pittle.org>\n"
+"Language-Team: Turkish <www-tr-comm@gnu.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# type: Content of: <title>
+msgid ""
+"Guidelines for Free System Distributions - GNU Project - Free Software "
+"Foundation"
+msgstr ""
+
+# type: Content of: <h2>
+msgid "Guidelines for Free System Distributions"
+msgstr ""
+
+# type: Content of: <h3>
+msgid "Introduction"
+msgstr ""
+
+# type: Content of: <p>
+msgid ""
+"The purpose of these guidelines is to explain what it means for a system "
+"distribution (such as a GNU/Linux distribution) to qualify as free, and help "
+"distribution developers make their distributions qualify."
+msgstr ""
+
+# type: Content of: <p>
+msgid ""
+"These guidelines are not complete.  We have mentioned the issues we are "
+"aware of now, but we're sure there are more.  We will add them when we come "
+"across them."
+msgstr ""
+
+# type: Content of: <p>
+msgid ""
+"We would like to thank the Fedora Project for their help in focusing these "
+"policies, and allowing us to use their own distribution license guidelines "
+"as a basis for this document."
+msgstr ""
+
+# type: Content of: <h3>
+msgid "License Rules"
+msgstr ""
+
+# type: Content of: <p>
+msgid ""
+"&ldquo;Information for practical use&rdquo; includes software, "
+"documentation, fonts, and other data that has direct functional "
+"applications.  It does not include artistic works that have an aesthetic "
+"(rather than functional) purpose, or statements of opinion or judgment."
+msgstr ""
+
+# type: Content of: <p>
+msgid ""
+"All information for practical use in a free distribution must be available "
+"in source form.  (&ldquo;Source&rdquo; means the form of the information "
+"that is preferred for making changes to it.)"
+msgstr ""
+
+# type: Content of: <p>
+msgid ""
+"The information, and the source, must be provided under an appropriate free "
+"license.  We list the ones we have evaluated on <a class=\"reference\" href="
+"\"/licenses/license-list.html\">our license list</a>, with separate sections "
+"for licenses that are suitable for software, documentation, fonts, and other "
+"useful works.  If such a work is released under multiple licenses, at least "
+"one of which is free, it can be included in the system; the system "
+"developers just need to follow the terms of the available free license(s) "
+"when they distribute and/or modify it."
+msgstr ""
+
+# type: Content of: <p>
+msgid ""
+"A free system distribution must not steer users towards obtaining any "
+"nonfree information for practical use, or encourage them to do so.  There "
+"should be no repositories or ports for nonfree software.  Programs in the "
+"system should not suggest installing nonfree plugins, documentation, and so "
+"on."
+msgstr ""
+
+# type: Content of: <p>
+msgid ""
+"A free system distribution should be self-hosting.  This means that you must "
+"be able to develop and build the system with tools that the system provides "
+"you.  As a result, a free system distribution cannot include free software "
+"that can only be built by using nonfree software."
+msgstr ""
+
+# type: Content of: <p>
+msgid ""
+"There's a lot of code in most free system distributions today; the amount of "
+"effort it would take to audit it all directly is impractical for most "
+"teams.  In the past, some nonfree code has accidentally been included in "
+"free system distributions.  We don't de-list distributions because of this; "
+"instead, we only ask that a distribution put forth a good faith effort to "
+"avoid including nonfree software, and commit itself to removing such "
+"programs if they are discovered later."
+msgstr ""
+
+# type: Content of: <p>
+msgid ""
+"Certain kinds of license situations merit special attention for people "
+"creating or considering free software distributions; those are discussed in "
+"the sections below."
+msgstr ""
+
+# type: Content of: <h3>
+msgid "Nonfree Firmware"
+msgstr ""
+
+# type: Content of: <p>
+msgid ""
+"Some applications and drivers require firmware to function, and sometimes "
+"that firmware is distributed only in object code form, under a nonfree "
+"license.  We call these firmware programs &ldquo;blobs.&rdquo; On most GNU/"
+"Linux systems, you'll typically find these accompanying some drivers in the "
+"kernel Linux.  Such firmware should be removed from a free system "
+"distribution."
+msgstr ""
+
+# type: Content of: <p>
+msgid ""
+"Blobs can take many forms.  Sometimes, they will be provided in separate "
+"files.  Other times, they may be incorporated into the source of the driver "
+"itself&mdash;for example, it could be encoded as a large array of numbers.  "
+"But no matter how it's encoded, any nonfree firmware needs to be removed "
+"from a free system."
+msgstr ""
+
+# type: Content of: <p>
+msgid ""
+"(To be clear, not every array of numbers in a driver is firmware.  It's "
+"important to understand the purpose of the data before deciding whether or "
+"not it's appropriate for a free system.)"
+msgstr ""
+
+# type: Content of: <p>
+msgid ""
+"Brian Brazil, Jeff Moe, and Alexandre Oliva have developed a series of <a "
+"class=\"reference\" href=\"http://www.fsfla.org/svn/fsfla/software/linux-"
+"libre/scripts/\">scripts to remove nonfree firmware</a> from a stock version "
+"of the Linux kernel.  You may find them helpful if you would like to develop "
+"your own free GNU/Linux distribution&mdash;although we recommend joining "
+"development of an existing free distro rather than fragmenting effort by "
+"starting a new one.  The complete source for a blob-free version of the "
+"Linux kernel is also available; you can learn more about this project from "
+"the <a class=\"reference\" href=\"http://directory.fsf.org/project/linux/"
+"\">Free Software Directory</a>."
+msgstr ""
+
+# type: Content of: <h3>
+msgid "Non-functional Data"
+msgstr ""
+
+# type: Content of: <p>
+msgid ""
+"Data that has an aesthetic purpose, rather than a functional one, may be "
+"included in a free system distribution as long as its license gives you "
+"permission to copy and redistribute, both for commercial and non-commercial "
+"purposes.  For example, there are some game engines that have been released "
+"under the GNU GPL, and have accompanying game information&mdash;a world map, "
+"game graphics, and so on&mdash;released under such a verbatim distribution "
+"license.  This kind of data can be part of a free system distribution."
+msgstr ""
+
+# type: Content of: <h3>
+msgid "Trademarks"
+msgstr ""
+
+# type: Content of: <p>
+msgid ""
+"Trademarks are associated with some software.  For example, the name of a "
+"program may be trademarked, or its interface may display a trademarked "
+"logo.  Often, the use of these marks will be controlled in some way; in "
+"particular, developers are commonly asked to remove references to the "
+"trademark from the software when they modify it."
+msgstr ""
+
+# type: Content of: <p>
+msgid ""
+"In extreme cases, these restrictions may effectively render the program "
+"nonfree.  It is unfair for someone to ask you to remove a trademark from "
+"modified code if that trademark is scattered all throughout the original "
+"source.  As long as the practical requirements are reasonable, however, free "
+"system distributions may include these programs, either with or without the "
+"trademarks."
+msgstr ""
+
+# type: Content of: <p>
+msgid ""
+"Similarly, the distribution itself may hold particular trademarks.  It is "
+"not a problem if modification requires removal of these trademarks, as long "
+"as they can readily be removed without losing functionality."
+msgstr ""
+
+# type: Content of: <p>
+msgid ""
+"However, it is unacceptable to use trademarks to restrict verbatim copying "
+"and redistribution of the whole distribution, or any part."
+msgstr ""
+
+# type: Content of: <h3>
+msgid "Documentation"
+msgstr ""
+
+# type: Content of: <p>
+msgid ""
+"All the documentation in a free system distribution must be released under "
+"an appropriate free license.  Additionally, it must take care not to "
+"recommend nonfree software."
+msgstr ""
+
+# type: Content of: <p>
+msgid ""
+"In general, something that helps people who already use nonfree software to "
+"use the free software better with it is acceptable, but something that "
+"encourages users of the free software to install nonfree software is harmful."
+msgstr ""
+
+# type: Content of: <p>
+msgid ""
+"For example, a free system distribution may have documentation for users "
+"setting up dual boot systems.  It could explain how to access filesystems of "
+"the proprietary operating system, import settings from it, and so on.  That "
+"would be helping people install a free system distribution on a machine "
+"which already has proprietary software, which is good."
+msgstr ""
+
+# type: Content of: <p>
+msgid ""
+"What would be unacceptable is for the documentation to give people "
+"instructions for installing a nonfree program on the system, or mention "
+"conveniences they might gain by doing so."
+msgstr ""
+
+# type: Content of: <p>
+msgid ""
+"For a borderline case, a clear and serious exhortation not to use the "
+"nonfree program would clearly make it acceptable."
+msgstr ""
+
+# type: Content of: <h3>
+msgid "Patents"
+msgstr ""
+
+# type: Content of: <p>
+msgid ""
+"It is effectively impossible for free software developers and distributors "
+"to know whether or not a given piece of software infringes any patents: "
+"there are too many of them, they vary from country to country, they're often "
+"worded so as to make it hard to tell what they do or don't cover, and it "
+"isn't easy to tell which ones are valid.  Therefore, we don't generally ask "
+"free system distributions to exclude software because of possible threats "
+"from patents.  On the other hand, we also don't object if a distributor "
+"chooses to omit some software in order to avoid patent risk."
+msgstr ""
+
+# type: Content of: <h3>
+msgid "Commitment to Correct Mistakes"
+msgstr ""
+
+# type: Content of: <p>
+msgid ""
+"Most distribution development teams don't have the resources to perfectly "
+"check and make sure that their distribution meet all these criteria.  "
+"Neither do we.  So we expect developers to occasionally make mistakes that "
+"let some non-free software slip through, and we don't reject a distribution "
+"just for that.  What is crucial is for the distribution developers to have a "
+"firm commitment to promptly correct any mistakes that are reported to them."
+msgstr ""
+
+# type: Content of: <h3>
+msgid "Maintenance"
+msgstr ""
+
+# type: Content of: <p>
+msgid ""
+"To be listed, a distribution should be actively maintained, and should give "
+"the GNU Project a clear and specific way to report problems of non-free "
+"software that we find out about.  It should also inform us when the problems "
+"we have reported are fixed."
+msgstr ""
+
+# type: Content of: <h3>
+msgid "Contacting Upstream If You're Downstream"
+msgstr ""
+
+# type: Content of: <p>
+msgid ""
+"For distro developers (or anyone else) who have sent an important bug report "
+"for a GNU package: if it has gone unheeded by the package maintainer after a "
+"reasonable time (please allow at least two weeks), you can escalate the bug "
+"by writing to &lt;maintainers@gnu.org&gt;.  This is especially warranted if "
+"you can't find evidence of recent activity by the package maintainer."
+msgstr ""
+
+# type: Content of: <h3>
+msgid "Final Notes"
+msgstr ""
+
+# type: Content of: <p>
+msgid ""
+"We maintain a list of the <a href=\"/distros/free-distros.html\">free system "
+"distributions</a> we know about.  If you know about a free distribution that "
+"isn't listed there, please have the developers write to us at &lt;<a class="
+"\"reference\" href=\"mailto:gnu@gnu.org\">gnu@gnu.org</a>&gt;."
+msgstr ""
+
+# type: Content of: <p>
+msgid ""
+"However, we will not list a distribution whose name makes confusion with non-"
+"free distributions likely.  For example, if Foobar Light is a free "
+"distribution and Foobar is a non-free distribution, we will not list Foobar "
+"Light.  This is because we expect that the distinction between the two would "
+"be lost in the process of communicating this message."
+msgstr ""
+
+# type: Content of: <p>
+msgid ""
+"If you have questions or comments about these guidelines themselves, feel "
+"free to send those to &lt;<a class=\"reference\" href=\"mailto:licensing@gnu."
+"org\">licensing@gnu.org</a>&gt;.  We hope this helps everyone better "
+"understand the issues that are important for free system distributions, and "
+"we look forward to promoting more of them in the future."
+msgstr ""
+
+# type: Content of: <div>
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr ""
+
+# type: Content of: <div><p>
+msgid ""
+"Please send FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org\">&lt;"
+"gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways to "
+"contact</a> the FSF.  <br /> Please send broken links and other corrections "
+"or suggestions to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+
+# type: Content of: <div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+
+# type: Content of: <div><p>
+msgid "Copyright &copy; 2010 Free Software Foundation, Inc."
+msgstr ""
+
+# type: Content of: <div><p>
+msgid ""
+"Verbatim copying and distribution of this entire article are permitted "
+"worldwide, without royalty, in any medium, provided this notice, and the "
+"copyright notice, are preserved."
+msgstr ""
+
+# type: Content of: <div><div>
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+
+# type: Content of: <div><p>
+#.  timestamp start 
+msgid "Updated:"
+msgstr ""
+
+# type: Content of: <div><h4>
+msgid "Translations of this page"
+msgstr ""

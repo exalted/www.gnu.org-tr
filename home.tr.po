@@ -1,0 +1,872 @@
+# Turkish translations for home.shtml package
+# home.shtml paketi için Türkçe çeviriler
+# Copyright (C) 2008 Free Software Foundation, Inc.
+# This file is distributed under the same license as the home.shtml package.
+# Ali Servet Dönmez <asd@pittle.org>, 2008, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: home.shtml\n"
+"POT-Creation-Date: 2010-04-30 16:25-0300\n"
+"PO-Revision-Date: 2012-11-13 07:05+0200\n"
+"Last-Translator: Emin Tufan Çetin <etcetin@gmail.com>\n"
+"Language-Team: Turkish <www-tr-comm@gnu.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# type: Content of: <title>
+msgid "The GNU Operating System"
+msgstr "GNU İşletim Sistemi"
+
+# type: Attribute 'content' of: <meta>
+msgid ""
+"GNU, FSF, Free Software Foundation, Linux, Emacs, GCC, Unix, Free Software, "
+"Operating System, GNU Kernel, HURD, GNU HURD, Hurd"
+msgstr ""
+"GNU, FSF, Özgür Yazılım Vakfı, Linux, Emacs, GCC, Unix, Özgür Yazılım, "
+"İşletim Sistemi, GNU Çekirdeği, HURD, GNU HURD, Hurd"
+
+# type: Attribute 'content' of: <meta>
+msgid ""
+"Since 1983, developing the free Unix style operating system GNU, so that "
+"computer users can have the freedom to share and improve the software they "
+"use."
+msgstr ""
+"1983'den beri, bilgisayar kullanıcıları kullandıkları yazılımları paylaşma "
+"ve daha da iyileştirme özgürlüklerine sahip olabilsinler diye, UNIX benzeri "
+"GNU işletim sistemini geliştiriyoruz."
+
+# type: Attribute 'title' of: <link>
+msgid "What's New"
+msgstr "Neler olup bitiyor?"
+
+# type: Attribute 'title' of: <link>
+msgid "New Free Software"
+msgstr "Yeni Özgür Yazılımlar"
+
+# type: Content of: <p>
+msgid ""
+"Richard Stallman announced in September 1983 the plan to develop a free "
+"software Unix-like operating system called GNU. GNU is the only operating "
+"system developed specifically for the sake of users' freedom."
+msgstr ""
+"Richard Stallman Eylül 1983'te adı GNU olan özgür yazılım Unix benzeri bir "
+"işletim sistemi geliştirmeyi planladığını açıkladı. GNU özellikle "
+"kullanıcıların özgürlükleri için geliştirilmiş tek işletim sistemidir."
+
+# type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"/accessibility/accessibility.html\">Read the GNU Accessibility "
+"Statement</a>"
+msgstr ""
+"<a href=\"/accessibility/accessibility.html\">GNU Erişilebilirlik Raporunu "
+"okuyun</a>"
+
+# type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"http://www.aful.org/communiques/univ-offers-me-windows\">Students! "
+"Claim a refund on your unused Microsoft Windows licences</a>"
+msgstr ""
+"<a href=\"http://www.aful.org/communiques/univ-offers-me-windows"
+"\">Öğrenciler! Kullanmadığınız Microsoft Windows lisansları için geri ödeme "
+"talep edin</a>"
+
+# type: Content of: <div><p>
+#, fuzzy
+#| msgid ""
+#| "<a href=\"http://petition.stopsoftwarepatents.eu/\">Sign This Petition to "
+#| "stop software patents in Europe</a><br /> <a href=\"http://www."
+#| "openrightsgroup.org/orgwiki/index.php/Net_Neutrality\"> Support the "
+#| "efforts on net neutrality in Europe</a>, <a href=\"http://www."
+#| "savetheinternet.com\" title=\"Net neutrality in the United States of "
+#| "America\">in the USA</a> and <a href=\"http://www.neutrality.ca\" title="
+#| "\"Net neutrality in Canada\">in Canada</a>.<br /> Take a look at a new <a "
+#| "href=\"http://www.gnu.org/graphics/jesus-cartoon.html\"> cartoon</a>."
+msgid ""
+"<a href=\"http://www.openrightsgroup.org/orgwiki/index.php/Net_Neutrality\"> "
+"Support the efforts on net neutrality in Europe</a>, <a href=\"http://www."
+"savetheinternet.com\" title=\"Net neutrality in the United States of America"
+"\">in the USA</a> and <a href=\"http://www.neutrality.ca\" title=\"Net "
+"neutrality in Canada\">in Canada</a>."
+msgstr ""
+"<a href=\"http://petition.stopsoftwarepatents.eu/\">Sign This Petition to "
+"stop software patents in Europe</a><br /> <a href=\"http://www."
+"openrightsgroup.org/orgwiki/index.php/Net_Neutrality\"> Support the efforts "
+"on net neutrality in Europe</a>, <a href=\"http://www.savetheinternet.com\" "
+"title=\"Net neutrality in the United States of America\">in the USA</a> and "
+"<a href=\"http://www.neutrality.ca\" title=\"Net neutrality in Canada\">in "
+"Canada</a>.<br /> Take a look at a new <a href=\"http://www.gnu.org/graphics/"
+"jesus-cartoon.html\"> cartoon</a>."
+
+# type: Content of: <table><tr><td><h2>
+msgid "What is GNU?"
+msgstr "GNU nedir?"
+
+# type: Content of: <table><tr><td><p>
+#, fuzzy
+#| msgid ""
+#| "The GNU Project was launched in 1984 to develop a complete Unix-like "
+#| "operating system which is <a href=\"/philosophy/free-sw.html\">free "
+#| "software</a>: the GNU system."
+msgid ""
+"The GNU Project was launched in 1984 to develop a complete Unix-like "
+"operating system which is <a href=\"/philosophy/free-sw.html\">free "
+"software</a>: the GNU operating system."
+msgstr ""
+"GNU Projesi 1984 yılında tam anlamıyla UNIX benzeri <a href=\"/philosophy/"
+"free-sw.html\">özgür</a> bir işletim sistemini, GNU sistemini, geliştirmek "
+"için başlatıldı."
+
+# type: Content of: <div><div><p>
+msgid ""
+"Unix-like operating systems are built from a collection of <a href=\"/"
+"software/libc/\">libraries</a>, <a href=\"http://directory.fsf.org/GNU"
+"\">applications</a> and <a href=\"/software/gdb/\">developer tools</a>, plus "
+"a kernel to allocate resources and talk to the hardware &mdash; <a href=\"/"
+"software/hurd/\">Hurd, GNU's kernel</a> is actively developed, but is still "
+"some way from being ready for daily use, so GNU is often used with the "
+"kernel Linux."
+msgstr ""
+"Unix-benzeri işletim sistemleri <a href=\"/software/libc/\">kütüphanelerden</"
+"a>, <a href=\"http://directory.fsf.org/GNU\">uygulamalardan</a> ve <a href="
+"\"/software/gdb/\">geliştirici araçlarından</a>, ayrıca kaynakları "
+"kullanabilmek ve donanımla iletişime geçebilmek için çekirdekten oluşur "
+"&mdash; <a href=\"/software/hurd/\">Hurd, GNU'nun çekirdeğidir</a> ve "
+"geliştirilmektedir, ama günlük bir kullanıma hazır olmak istiyorsanız, GNU "
+"çoğu kez Linux çekirdeği ile kullanılır."
+
+# type: Content of: <table><tr><td><p>
+#, fuzzy
+#| msgid ""
+#| "GNU's kernel isn't finished, so GNU is used with the kernel Linux.  The "
+#| "combination of GNU and Linux is the <b>GNU/Linux operating system</b>, "
+#| "now used by millions."
+msgid ""
+"The combination of GNU and Linux is the <b>GNU/Linux operating system</b>, "
+"now used by millions."
+msgstr ""
+"GNU'nun kendi çekirdeği henüz bitmemiş olduğundan GNU, Linux çekirdeği ile "
+"kullanılmaktadır. Bugün milyonlar tarafından kullanılan, GNU ve Linux'un "
+"birlikteliği GNU/Linux işletim sistemidir."
+
+# type: Content of: <table><tr><td><p>
+msgid ""
+"Sometimes this combination is incorrectly called <a href=\"/gnu/linux-and-"
+"gnu.html\">Linux</a>. There are many variants or &ldquo;distributions&rdquo; "
+"of GNU/Linux."
+msgstr ""
+"Bazen bu birliktelik hatalı olarak <a href=\"/gnu/linux-and-gnu.html"
+"\">Linux</a> olarak anılmaktadır. GNU/Linux'un çok çeşitleri ya da &ldquo;"
+"dağıtımları&rdquo; vardır."
+
+# type: Attribute 'alt' of: <table><tr><td><div><img>
+msgid "gNewSense logo"
+msgstr "gNewSense logo"
+
+# type: Attribute 'alt' of: <table><tr><td><div><img>
+msgid "Trisquel GNU/Linux logo"
+msgstr "Trisquel GNU/Linux logo"
+
+# type: Content of: <table><tr><td><p>
+msgid ""
+"<span class=\"highlight\">We recommend the <a href=\"/distros/free-distros."
+"html\">GNU/Linux distributions</a> that are 100% free software; in other "
+"words, entirely freedom-respecting</span>."
+msgstr ""
+"Biz %100 özgür olan, ya da başka bir deyişle tamamen özgürlüğe saygı duyan, "
+"<span class=\"highlight\"><a href=\"/distros/free-distros.html\">GNU/Linux "
+"dağıtımları</a>nı tavsiye ediyoruz</span>."
+
+# type: Content of: <table><tr><td><p>
+msgid ""
+"The name &ldquo;GNU&rdquo; is a recursive acronym for &ldquo;GNU's Not Unix!"
+"&rdquo;; it is pronounced <em>g-noo</em>, as one syllable with no vowel "
+"sound between the <em>g</em> and the <em>n</em>."
+msgstr ""
+"&ldquo;GNU&rdquo; adı &ldquo;GNU's Not Unix!&rdquo;in kendini yineleyen bir "
+"kısaltmasıdır; Türkçe'de aynen yazıldığı gibi söylenir."
+
+# type: Content of: <table><tr><td><h2>
+msgid "What is Free Software?"
+msgstr "Özgür Yazılım nedir?"
+
+# type: Content of: <table><tr><td><p>
+msgid ""
+"&ldquo;<a href=\"/philosophy/free-sw.html\">Free software</a>&rdquo; is a "
+"matter of liberty, not price.  To understand the concept, you should think "
+"of &ldquo;free&rdquo; as in &ldquo;free speech&rdquo;, not as in &ldquo;free "
+"beer&rdquo;."
+msgstr ""
+"&ldquo;<a href=\"/philosophy/free-sw.html\">Özgür yazılım</a>&rdquo; para "
+"ile ilgili bir sorun değildir, bir özgürlük sorunudur. Bu kavramı anlamak "
+"için &ldquo;düşünce özgürlüğü&rdquo;nü düşünmeniz gerekir, &ldquo;nerede "
+"beleş oraya yerleş&rdquo; gibi değil."
+
+# type: Content of: <table><tr><td><p>
+msgid ""
+"Free software is a matter of the users' <span class=\"highlight\">freedom to "
+"run, copy, distribute, study, change and improve</span> the software.  More "
+"precisely, it refers to four kinds of freedom, for the users of the software:"
+msgstr ""
+"Özgür yazılım, kullanıcıların yazılımları <span class=\"highlight"
+"\">çalıştırma, kopyalama, dağıtma, öğrenme, değiştirme ve iyileştirme "
+"özgürlükleri</span>yle ilgili bir sorundur. Daha kesin olarak, yazılım "
+"kullanıcıları için, dört çeşit özgürlüğe atıfta bulunur:"
+
+# type: Content of: <table><tr><td><ul><li>
+msgid "The freedom to run the program, for any purpose (freedom 0)."
+msgstr ""
+"Hangi amaç için olursa olsun, programı çalıştırma özgürlüğü (0. özgürlük)."
+
+# type: Content of: <table><tr><td><ul><li>
+msgid ""
+"The freedom to study how the program works, and adapt it to your needs "
+"(freedom 1).  Access to the source code is a precondition for this."
+msgstr ""
+"Kendi ihtiyaçlarınıza uyarlamak için programın nasıl çalıştığını öğrenme "
+"özgürlüğü (1. özgürlük). Kaynak koduna erişim bunun için bir önkoşuldur."
+
+# type: Content of: <table><tr><td><ul><li>
+msgid ""
+"The freedom to redistribute copies so you can help your neighbor (freedom 2)."
+msgstr ""
+"İhtiyacı olanlara yardım edebilmeniz için programın kopyalarını dağıtma "
+"özgürlüğü (2. özgürlük)."
+
+# type: Content of: <table><tr><td><ul><li>
+msgid ""
+"The freedom to improve the program, and release your improvements to the "
+"public, so that the whole community benefits (freedom 3).  Access to the "
+"source code is a precondition for this."
+msgstr ""
+"Bütün toplumun faydalanabilmesi için programı iyileştirme ve yaptıklarınızı "
+"halka açma özgürlüğü (3. özgürlük). Kaynak koduna erişim bunun için bir "
+"önkoşuldur."
+
+# type: Content of: <table><tr><td><h3>
+msgid "What is the Free Software Foundation?"
+msgstr "Özgür Yazılım Vakfı nedir?"
+
+# type: Content of: <table><tr><td><p>
+msgid ""
+"The <a href=\"http://www.fsf.org\">Free Software Foundation</a> (<abbr title="
+"\"Free Software Foundation\">FSF</abbr>) is the principal organizational "
+"sponsor of the GNU Project.  The <abbr>FSF</abbr> receives very little "
+"funding from corporations or grant-making foundations but relies on support "
+"from individuals like you."
+msgstr ""
+"<a href=\"http://www.fsf.org\">Özgür Yazılım Vakfı</a> (<abbr title=\"Özgür "
+"Yazılım Vakfı\">FSF</abbr>) GNU Projesi'nin başlıca örgütsel "
+"destekleyicisidir. <abbr>FSF</abbr> şirketlerden ve kâr sağlayan kurumlardan "
+"çok küçük bir kaynak sağlamaktadır ama sizin gibi bireylerin desteğine bel "
+"bağlamaktadır."
+
+# type: Content of: <table><tr><td><p>
+msgid ""
+"Please consider helping the <abbr>FSF</abbr> by <a href=\"http://member.fsf."
+"org/\">becoming an associate member</a>, <a href=\"http://order.fsf.org/"
+"\">buying manuals and gear</a> or by <a href=\"http://donate.fsf.org/"
+"\">donating money</a>.  If you use Free Software in your business, you can "
+"also consider <a href=\"http://patron.fsf.org/\">corporate patronage</a> as "
+"a way to support the <abbr>FSF</abbr>."
+msgstr ""
+"Lütfen <a href=\"http://member.fsf.org/\">ortak üye olarak</a>, <a href="
+"\"http://order.fsf.org/\">el kitapları ya da eşya sayın alarak</a> ya da <a "
+"href=\"http://donate.fsf.org/\">para bağışlayarak</a> <abbr>FSF</abbr>'ye "
+"yardım etmeyi göz önünde bulundurun. Eğer işinizde Özgür Yazılım "
+"kullanıyorsanız, <abbr>FSF</abbr>'ye yardımcı olmanın bir yolu olarak, <a "
+"href=\"http://patron.fsf.org/\">sürekli müşteriliği</a> göz önünde "
+"bulundurabilirsiniz."
+
+# type: Content of: <table><tr><td><p>
+msgid ""
+"The GNU project supports the mission of the <abbr>FSF</abbr> to preserve, "
+"protect and promote the freedom to use, study, copy, modify, and "
+"redistribute computer software, and to defend the rights of Free Software "
+"users.  We support the <a href=\"/philosophy/basic-freedoms.html\">freedoms "
+"of speech, press, and association</a> on the Internet, <a href=\"http://www."
+"eff.org/privnow/\">the right to use encryption software for private "
+"communication</a>, and the <a href=\"/philosophy/protecting.html\">right to "
+"write software</a> unimpeded by private monopolies.  You can also learn more "
+"about these issues in the book <a href=\"http://shop.fsf.org/product/free-"
+"software-free-society/\">Free Software, Free Society</a>."
+msgstr ""
+"GNU Projesi, <abbr>FSF</abbr>'nin bilgisayar yazılımlarını kullanma, "
+"öğrenme, kopyalama, değiştirme ve dağıtma özgürlüklerini koruma ve Özgür "
+"Yazılım kullanıcılarının haklarını savunma amacını destekler. Biz, "
+"İnternet'te <a href=\"/philosophy/basic-freedoms.html\">özgür düşünce</a>, "
+"yayın ve birlik kurma özgürlüklerini, özel iletişim için <a href=\"http://"
+"www.eff.org/privnow/\">şifreleme yazılımı kullanma hakkı</a>nı ve özel "
+"tekeller tarafından engellenmemiş <a href=\"/philosophy/protecting.html"
+"\">yazılım yazma hakkı</a>nı destekliyoruz. Bu konular hakkında daha fazla "
+"bilgiyi ayrıca <a href=\"/doc/book13.html\">Free Software, Free Society</a> "
+"kitabından öğrenebilirsiniz."
+
+# type: Content of: <table><tr><td><p>
+msgid ""
+"The FSF also has sister organizations in <a href=\"http://www.fsfe.org"
+"\">Europe</a>, <a href=\"http://www.fsfla.org/\">Latin America</a> and <a "
+"href=\"http://fsf.org.in/\">India</a>."
+msgstr ""
+"FSF'nin ayrıca <a href=\"http://www.fsfe.org\">Avrupa</a>'da, <a href="
+"\"http://www.fsfla.org/\">Latin Amerika</a>'da ve <a href=\"http://fsf.org."
+"in/\">Hindistan</a>'da kardeş kuruluşları vardır."
+
+# type: Attribute 'title' of: <link>
+msgid "GNUstep"
+msgstr "GNUstep"
+
+# type: Content of: <table><tr><td><p>
+#, fuzzy
+#| msgid ""
+#| "GNUstep is a fully-functional object-oriented development environment."
+msgid ""
+"<a href=\"http://www.gnustep.org/\">GNUstep</a> is a fully-functional object-"
+"oriented development environment."
+msgstr "GNUstep tümüyle işlevsel nesne tabanlı bir geliştirme ortamıdır."
+
+# type: Content of: <table><tr><td><p>
+msgid ""
+"We need developers to write and port applications to GNUstep so that we can "
+"make it a great experience for users. See <a href=\"http://www.gnustep.org/"
+"\">http://www.gnustep.org/</a> for more information."
+msgstr ""
+"Kullanıcılar için harika bir deneyim olabilsin diye GNUstep'e uygulamalar "
+"yazacak ve geçirecek geliştiricilere ihtiyacımız var. Daha fazla bilgi için "
+"lütfen http://www.gnustep.org/ sayfasına bakın."
+
+# type: Attribute 'alt' of: <h1><img>
+msgid "Freedom Fry"
+msgstr "Özgürlük Fry"
+
+# type: Content of: <p><a>
+msgid "<a href=\"/fry/happy-birthday-to-gnu.html\">"
+msgstr "<a href=\"/fry/happy-birthday-to-gnu.html\">"
+
+# type: Attribute 'alt' of: <table><tr><td><p><a><img>
+msgid "Stephen Fry"
+msgstr "Stephen Fry"
+
+# type: Content of: <p>
+msgid "</a>"
+msgstr "</a>"
+
+# type: Content of: <p>
+msgid ""
+"Mr. Stephen Fry <a href=\"/fry/\">introduces you to free software</a>, and "
+"reminds you of a very special birthday."
+msgstr ""
+"Stephen Fry <a href=\"/fry/\">sizi özgür yazılım ile tanıştırıyor</a>, ve "
+"çok özel bir doğumgününü hatırlatıyor."
+
+# type: Content of: <table><tr><td><h3>
+msgid "GNUs Flashes"
+msgstr "GNUs Flashes"
+
+# type: Content of: <table><tr><td><p>
+msgid ""
+"For other news, as well as for items that used to be in this GNUs Flashes "
+"section, see <a href=\"/server/whatsnew.html\">What's New</a> in and about "
+"the GNU Project."
+msgstr ""
+"Önceden GNUs Flashes bölümünde bulunmuş olanlar da dahil olmak üzere, diğer "
+"haberler için, lütfen GNU Projesi ile ilgili <a href=\"/server/whatsnew.html"
+"\">Haberler Neler</a> bölümüne bakın."
+
+# type: Content of: <table><tr><td><h3>
+msgid "Take Action"
+msgstr "Harekete Geçin"
+
+# type: Content of: <table><tr><td><ul><li>
+msgid ""
+"<strong>License drafting:</strong> <a href=\"/server/takeaction.html#licenses"
+"\">Participate</a> in the drafting of the GFDL and GSFDL."
+msgstr ""
+"<strong>License drafting:</strong> <a href=\"/server/takeaction.html#licenses"
+"\">Participate</a> in the drafting of the GFDL and GSFDL."
+
+# type: Content of: <table><tr><td><ul><li>
+msgid ""
+"<a href=\"/server/takeaction.html#directory\">Add to the Free Software "
+"Directory</a>."
+msgstr ""
+"<a href=\"/server/takeaction.html#directory\">Add to the Free Software "
+"Directory</a>."
+
+# type: Content of: <table><tr><td><ul><li>
+msgid ""
+"<strong>Worldwide:</strong> <a href=\"/server/takeaction.html#wipochange"
+"\">Call on WIPO to change its name and mission</a>."
+msgstr ""
+"<strong>Worldwide:</strong> <a href=\"/server/takeaction.html#wipochange"
+"\">Call on WIPO to change its name and mission</a>."
+
+# type: Content of: <table><tr><td><ul><li>
+msgid ""
+"<strong>Fight against software patents:</strong> <a href=\"http://www."
+"endsoftpatents.org\">in the USA</a>, <a href=\"/server/takeaction.html#swpat"
+"\">in Europe</a>."
+msgstr ""
+"<strong>Fight against software patents:</strong> <a href=\"http://www."
+"endsoftpatents.org\">in the USA</a>, <a href=\"/server/takeaction.html#swpat"
+"\">in Europe</a>."
+
+# type: Content of: <table><tr><td><ul><li>
+msgid ""
+"<strong>US citizens:</strong> <a href=\"/server/takeaction.html#antidmca"
+"\">Sign petitions against software patents and the DMCA</a>."
+msgstr ""
+"<strong>US citizens:</strong> <a href=\"/server/takeaction.html#antidmca"
+"\">Sign petitions against software patents and the DMCA</a>."
+
+# type: Content of: <div><div><ul><li>
+msgid ""
+"<strong>High priority projects:</strong> <a href=\"http://www.fsf.org/"
+"campaigns/priority.html\">Contribute</a> to these free software projects we "
+"are emphasizing:"
+msgstr ""
+"<strong>Yüksek öncelikli projeler:</strong> Vurguladığımız bu özgür yazılım "
+"projelerine <a href=\"http://www.fsf.org/campaigns/priority.html\">Katkıda "
+"bulun</a> :"
+
+# type: Content of: <div><div><ul><li><ul><li>
+msgid ""
+"<a href=\"http://www.fsf.org/campaigns/priority.html#gnash\"> Gnash (GNU "
+"Flash Player)</a>"
+msgstr ""
+"<a href=\"http://www.fsf.org/campaigns/priority.html#gnash\"> Gnash (GNU "
+"Flash Player)</a>"
+
+# type: Content of: <div><div><ul><li><ul><li>
+msgid ""
+"<a href=\"http://www.fsf.org/campaigns/priority.html#coreboot\"> Coreboot "
+"(campaign for a free BIOS)</a>"
+msgstr ""
+"<a href=\"http://www.fsf.org/campaigns/priority.html#coreboot\"> Coreboot "
+"(özgür BIOS için kampanya)</a>"
+
+# type: Content of: <table><tr><td><ul><li>
+#, fuzzy
+#| msgid ""
+#| "<a href=\"http://www.fsf.org/resources/service/\">GNU Service Directory</"
+#| "a>"
+msgid ""
+"<a href=\"http://www.fsf.org/campaigns/priority.html#skypereplacement\"> "
+"free replacement for skype</a>"
+msgstr ""
+"<a href=\"http://www.fsf.org/resources/service/\">GNU Service Directory</a>"
+
+# type: Content of: <table><tr><td><ul><li>
+#, fuzzy
+#| msgid ""
+#| "<a href=\"http://www.fsf.org/resources/service/\">GNU Service Directory</"
+#| "a>"
+msgid ""
+"<a href=\"http://www.fsf.org/campaigns/priority.html#videoediting\"> video "
+"editing</a>"
+msgstr ""
+"<a href=\"http://www.fsf.org/resources/service/\">GNU Service Directory</a>"
+
+# type: Content of: <div><div><ul><li><ul><li>
+msgid ""
+"<a href=\"http://www.fsf.org/campaigns/priority.html#gereplacment\"> free "
+"replacement for Google Earth</a>"
+msgstr ""
+"<a href=\"http://www.fsf.org/campaigns/priority.html#gereplacment\"> Google "
+"Earth'a özgür alternatif</a>"
+
+# type: Content of: <div><div><ul><li><ul><li>
+msgid ""
+"<a href=\"http://www.fsf.org/campaigns/priority.html#gnewsense\"> gNewSense "
+"(the all free software GNU/Linux system)</a>"
+msgstr ""
+"<a href=\"http://www.fsf.org/campaigns/priority.html#gnewsense\"> gNewSense "
+"(tamamı özgür GNU/Linux sistemi)</a>"
+
+# type: Content of: <div><div><ul><li><ul><li>
+msgid ""
+"<a href=\"http://www.fsf.org/campaigns/priority.html#gnuoctave\"> GNU Octave "
+"(free software Matlab replacement)</a>"
+msgstr ""
+"<a href=\"http://www.fsf.org/campaigns/priority.html#gnuoctave\"> GNU Octave "
+"(özgür Matlab alternatifi)</a>"
+
+# type: Content of: <div><div><ul><li><ul><li>
+msgid ""
+"<a href=\"http://www.fsf.org/campaigns/priority.html#opendwgreplacement\"> "
+"free replacement for OpenDWG libraries</a>"
+msgstr ""
+"<a href=\"http://www.fsf.org/campaigns/priority.html#opendwgreplacement"
+"\">OpenDWG kütüphanelerine özgür alternatif</a>"
+
+# type: Content of: <div><div><ul><li><ul><li>
+msgid ""
+"<a href=\"http://www.fsf.org/campaigns/priority.html#reversegdb\"> "
+"reversible debugging in GDB</a>"
+msgstr ""
+
+# type: Content of: <div><div><ul><li><ul><li>
+msgid ""
+"<a href=\"http://www.fsf.org/campaigns/priority.html#mesh\"> free software "
+"drivers for mesh routers</a>"
+msgstr ""
+"<a href=\"http://www.fsf.org/campaigns/priority.html#mesh\"> ağ "
+"yönlendiriciler için özgür sürücüler</a>"
+
+# type: Content of: <div><div><ul><li><ul><li>
+msgid ""
+"<a href=\"http://www.fsf.org/campaigns/priority.html#oracle\">free "
+"replacement for Oracle Forms</a>"
+msgstr ""
+"<a href=\"http://www.fsf.org/campaigns/priority.html#oracle\">Oracle Forms'a "
+"özgür alternatif</a>"
+
+# type: Content of: <table><tr><td><ul><li>
+#, fuzzy
+#| msgid ""
+#| "<a href=\"http://www.fsf.org/resources/service/\">GNU Service Directory</"
+#| "a>"
+msgid "<a href=\"http://www.fsf.org/campaigns/priority.html#pdf\">GNU PDF</a>."
+msgstr ""
+"<a href=\"http://www.fsf.org/resources/service/\">GNU Service Directory</a>"
+
+# type: Content of: <table><tr><td><p>
+msgid "<a href=\"/server/takeaction.html#other\">Other Action Items</a>"
+msgstr "<a href=\"/server/takeaction.html#other\">Diğer eylemler</a>"
+
+# type: Content of: <table><tr><td><h2>
+msgid "Get Involved"
+msgstr "Siz de katılın"
+
+# type: Content of: <table><tr><td><p>
+msgid ""
+"Whoever you are, wherever you are, and whatever your skills and interests "
+"are there are many ways you can get involved with the GNU Project:"
+msgstr ""
+"Kim olursanız olun, nerede olursanız olun ve yetenek ya da ilgileriniz neler "
+"olursa olsunlar GNU Projesine katılmanın birçok yolu vardır:"
+
+# type: Content of: <table><tr><td><ul><li>
+msgid "<a href=\"/help/help.html\">General ways you can help</a>"
+msgstr "<a href=\"/help/help.html\">Yardım edebileceğiniz genel yollar</a>"
+
+# type: Content of: <table><tr><td><ul><li>
+msgid ""
+"<a href=\"http://savannah.gnu.org/people/?type_id=1\">Specific projects that "
+"need help</a>"
+msgstr ""
+"<a href=\"http://savannah.gnu.org/people/?type_id=1\">Yardıma muhtaç özel "
+"projeler</a>"
+
+# type: Content of: <table><tr><td><ul><li>
+msgid ""
+"Help us translate the gnu.org essays into your native <a href=\"/server/"
+"standards/translations/priorities.html#Languages\"> language</a> or <a href="
+"\"/server/standards/translations/priorities.html#Orphaned\"> become a "
+"coordinator</a> of a www.gnu.org translation team."
+msgstr ""
+"Help us translate the gnu.org essays into your native <a href=\"/server/"
+"standards/translations/priorities.html#Languages\"> language</a> or <a href="
+"\"/server/standards/translations/priorities.html#Orphaned\"> become a "
+"coordinator</a> of a www.gnu.org translation team."
+
+# type: Content of: <table><tr><td><ul><li>
+#, fuzzy
+#| msgid ""
+#| "<a href=\"/server/takeaction.html#unmaint\">Take over an unmaintained GNU "
+#| "package:</a> <a href=\"/software/alive/\">alive</a>, <a href=\"/software/"
+#| "fontutils/\">fontutils</a>, <a href=\"/software/gleem/\">gleem</a>, <a "
+#| "href=\"/software/gnatsweb/\">gnatsweb</a>, <a href=\"/software/gnutrition/"
+#| "\">gnutrition</a>, <a href=\"/software/gtypist/\">gtypist</a>, <a href=\"/"
+#| "software/oleo/\">oleo</a>, <a href=\"/software/pgccfd/\">pgccfd</a>, <a "
+#| "href=\"/software/polyxmass/\">polyxmass</a>, <a href=\"/software/rpge/"
+#| "\">rpge</a>, <a href=\"/software/vmslib/\">vmslib</a>."
+msgid ""
+"<a href=\"/server/takeaction.html#unmaint\">Take over an unmaintained GNU "
+"package:</a> <a href=\"/software/alive/\">alive</a>, <a href=\"/software/"
+"fontutils/\">fontutils</a>, <a href=\"/software/gift/\">gift</a>, <a href=\"/"
+"software/gleem/\">gleem</a>, <a href=\"/software/gnatsweb/\">gnatsweb</a>, "
+"<a href=\"/software/gtypist/\">gtypist</a>, <a href=\"/software/gnushogi/"
+"\">gnushogi</a>, <a href=\"/software/oleo/\">oleo</a>, <a href=\"/software/"
+"pgccfd/\">pgccfd</a>, <a href=\"/software/polyxmass/\">polyxmass</a>, <a "
+"href=\"/software/quickthreads/\">quickthreads</a>, <a href=\"/software/rpge/"
+"\">rpge</a>, <a href=\"/software/vmslib/\">vmslib</a>."
+msgstr ""
+"<a href=\"/server/takeaction.html#unmaint\">Take over an unmaintained GNU "
+"package:</a> <a href=\"/software/alive/\">alive</a>, <a href=\"/software/"
+"fontutils/\">fontutils</a>, <a href=\"/software/gleem/\">gleem</a>, <a href="
+"\"/software/gnatsweb/\">gnatsweb</a>, <a href=\"/software/gnutrition/"
+"\">gnutrition</a>, <a href=\"/software/gtypist/\">gtypist</a>, <a href=\"/"
+"software/oleo/\">oleo</a>, <a href=\"/software/pgccfd/\">pgccfd</a>, <a href="
+"\"/software/polyxmass/\">polyxmass</a>, <a href=\"/software/rpge/\">rpge</"
+"a>, <a href=\"/software/vmslib/\">vmslib</a>."
+
+# type: Content of: <table><tr><td><ul><li>
+msgid ""
+"<strong>Long-term contribution:</strong> <a href=\"/server/takeaction."
+"html#gnustep\">Contribute</a> as a user and developer to <a href=\"http://"
+"www.gnustep.org\">GNUstep</a>, a free object-oriented framework for "
+"application development."
+msgstr ""
+"<strong>Long-term contribution:</strong> <a href=\"/server/takeaction."
+"html#gnustep\">Contribute</a> as a user and developer to <a href=\"http://"
+"www.gnustep.org\">GNUstep</a>, a free object-oriented framework for "
+"application development."
+
+# type: Content of: <table><tr><td><ul><li>
+msgid ""
+"<strong>Long-term contribution:</strong> Help us translate the gnu.org "
+"essays into your native <a href=\"/server/standards/translations/priorities."
+"html#Languages\"> language</a> or <a href=\"/server/standards/translations/"
+"priorities.html#Orphaned\"> become a coordinator</a> of a www.gnu.org "
+"translation team."
+msgstr ""
+"<strong>Long-term contribution:</strong> Help us translate the gnu.org "
+"essays into your native <a href=\"/server/standards/translations/priorities."
+"html#Languages\"> language</a> or <a href=\"/server/standards/translations/"
+"priorities.html#Orphaned\"> become a coordinator</a> of a www.gnu.org "
+"translation team."
+
+# type: Content of: <div><div><h4>
+msgid "Other GNU resources"
+msgstr "Diğer GNU kaynakları"
+
+# type: Content of: <table><tr><td><ul><li>
+msgid "<a href=\"/distros/free-distros.html\">Free GNU/Linux Distros</a>"
+msgstr "<a href=\"/distros/free-distros.html\">Özgür GNU/Linux Dağıtımları</a>"
+
+# type: Content of: <table><tr><td><ul><li>
+msgid "<a href=\"http://directory.fsf.org/GNU/\">GNU Packages</a>"
+msgstr "<a href=\"http://directory.fsf.org/GNU/\">GNU Paketleri</a>"
+
+# type: Content of: <table><tr><td><ul><li>
+#, fuzzy
+#| msgid "<a href=\"/manual/manual.html\">GNU Manuals</a>"
+msgid "<a href=\"/manual/manual.html\">GNU Documentation</a>"
+msgstr "<a href=\"/manual/manual.html\">GNU Kullanım Klavuzları</a>"
+
+# type: Content of: <table><tr><td><ul><li>
+msgid "<a href=\"http://lists.gnu.org/\">GNU Mailing Lists</a>"
+msgstr "<a href=\"http://lists.gnu.org/\">GNU Mektuplaşma Listeleri</a>"
+
+# type: Content of: <table><tr><td><ul><li>
+msgid "<a href=\"http://savannah.gnu.org/\">Savannah</a>"
+msgstr "<a href=\"http://savannah.gnu.org/\">Savannah</a>"
+
+# type: Content of: <table><tr><td><ul><li>
+#, fuzzy
+#| msgid "<a href=\"http://ftp.gnu.org/\">GNU FTP Site</a>"
+msgid ""
+"<a href=\"http://ftp.gnu.org/gnu/\">GNU FTP Site</a> and <a href=\"/prep/ftp."
+"html\">mirrors</a>"
+msgstr "<a href=\"http://ftp.gnu.org/\">GNU FTP Sitesi</a>"
+
+# type: Content of: <table><tr><td><ul><li>
+msgid "<a href=\"/licenses/license-list.html\">Free Software Licenses</a>"
+msgstr "<a href=\"/licenses/license-list.html\">Özgür Yazılım Lisansları</a>"
+
+# type: Content of: <table><tr><td><ul><li>
+msgid "<a href=\"/licenses/gpl.html\">GNU GPL</a>"
+msgstr "<a href=\"/licenses/gpl.html\">GNU GPL</a>"
+
+# type: Content of: <table><tr><td><ul><li>
+msgid "<a href=\"/licenses/lgpl.html\">GNU LGPL</a>"
+msgstr "<a href=\"/licenses/lgpl.html\">GNU LGPL</a>"
+
+# type: Content of: <table><tr><td><ul><li>
+msgid "<a href=\"/licenses/gfdl.html\">GNU FDL</a>"
+msgstr "<a href=\"/licenses/gfdl.html\">GNU FDL</a>"
+
+# type: Content of: <table><tr><td><ul><li>
+msgid "<a href=\"/licenses/agpl.html\">GNU AGPL</a>"
+msgstr "<a href=\"/licenses/agpl.html\">GNU AGPL</a>"
+
+# type: Content of: <table><tr><td><ul><li>
+msgid "<a href=\"http://audio-video.gnu.org/\">GNU Audio/Video</a>"
+msgstr "<a href=\"http://audio-video.gnu.org/\">GNU Ses/Görüntü</a>"
+
+# type: Content of: <table><tr><td><ul><li>
+#, fuzzy
+#| msgid "<a href=\"/licenses/license-list.html\">Free Software Licenses</a>"
+msgid ""
+"<a href=\"/accessibility/accessibility.html\">Accessibility Statement</a>"
+msgstr "<a href=\"/licenses/license-list.html\">Özgür Yazılım Lisansları</a>"
+
+# type: Content of: <table><tr><td><ul><li>
+#, fuzzy
+#| msgid "<a href=\"/server/\">GNU Server Guidelines</a>"
+msgid "<a href=\"/server/server.html\">GNU Server Guidelines</a>"
+msgstr "<a href=\"/server/\">GNU Server Kılavuzları</a>"
+
+# type: Content of: <table><tr><td><ul><li>
+msgid "<a href=\"/server/standards/\">GNU Web Standards</a>"
+msgstr "<a href=\"/server/standards/\">GNU Web Standartları</a>"
+
+# type: Content of: <table><tr><td><ul><li>
+#, fuzzy
+#| msgid "<a href=\"/licenses/license-list.html\">Free Software Licenses</a>"
+msgid "<a href=\"/links/links.html\">More Free Software Links</a>"
+msgstr "<a href=\"/licenses/license-list.html\">Özgür Yazılım Lisansları</a>"
+
+# type: Content of: <div><div><h4>
+msgid "GNU people and fun"
+msgstr "GNU people and fun"
+
+# type: Content of: <table><tr><td><ul><li>
+msgid "<a href=\"http://planet.gnu.org/\">planet.gnu.org</a>"
+msgstr "<a href=\"http://planet.gnu.org/\">planet.gnu.org</a>"
+
+# type: Content of: <table><tr><td><ul><li>
+#, fuzzy
+#| msgid "<a href=\"/people/\">GNU's Who</a>"
+msgid "<a href=\"/people/people.html\">GNU's Who</a>"
+msgstr "<a href=\"/people/\">GNU'nun Kimliği</a>"
+
+# type: Content of: <table><tr><td><ul><li>
+#, fuzzy
+#| msgid "<a href=\"/graphics/graphics.html\">GNU Art</a>"
+msgid "<a href=\"/contact/gnu-advisory.html\">GNU Advisory Committee</a>"
+msgstr "<a href=\"/graphics/graphics.html\">GNU Sanat</a>"
+
+# type: Content of: <table><tr><td><ul><li>
+msgid "<a href=\"/people/speakers.html\">Speakers</a>"
+msgstr "<a href=\"/people/speakers.html\">Konuşmacılar</a>"
+
+# type: Content of: <table><tr><td><ul><li>
+msgid "<a href=\"/thankgnus/thankgnus.html\">ThankGNUs</a>"
+msgstr "<a href=\"/thankgnus/thankgnus.html\">Teşekkürler</a>"
+
+# type: Content of: <table><tr><td><ul><li>
+#, fuzzy
+#| msgid "<a href=\"/testimonials/\">Testimonials</a>"
+msgid "<a href=\"/testimonials/testimonials.html\">Testimonials</a>"
+msgstr "<a href=\"/testimonials/\">Referanslar</a>"
+
+# type: Content of: <table><tr><td><ul><li>
+msgid "<a href=\"/gnu/gnu-user-groups.html\">GNU User Groups</a>"
+msgstr "<a href=\"/gnu/gnu-user-groups.html\">GNU Kullanıcı Groupları</a>"
+
+# type: Content of: <table><tr><td><ul><li>
+#, fuzzy
+#| msgid "<a href=\"/jobs\">Free Software Jobs</a>"
+msgid "<a href=\"/jobs\">Free Software Job Board</a>"
+msgstr "<a href=\"/jobs\">Özgür Yazılım İş İlanları</a>"
+
+# type: Content of: <table><tr><td><ul><li>
+msgid ""
+"<a href=\"http://www.fsf.org/resources/service/\">GNU Service Directory</a>"
+msgstr ""
+"<a href=\"http://www.fsf.org/resources/service/\">GNU Service Directory</a>"
+
+# type: Content of: <table><tr><td><ul><li>
+msgid "<a href=\"/fun/fun.html\">GNU Fun</a>"
+msgstr "<a href=\"/fun/fun.html\">GNU Eğlence</a>"
+
+# type: Content of: <table><tr><td><ul><li>
+msgid "<a href=\"/graphics/graphics.html\">GNU Art</a>"
+msgstr "<a href=\"/graphics/graphics.html\">GNU Sanat</a>"
+
+# type: Content of: <table><tr><td><ul><li>
+#, fuzzy
+#| msgid "<a href=\"/music/\">Music &amp; Songs</a>"
+msgid "<a href=\"/music/music.html\">Music &amp; Songs</a>"
+msgstr "<a href=\"/music/\">Müzik &amp; Şarkılar</a>"
+
+# type: Content of: <table><tr><td><h3>
+msgid "More information"
+msgstr "Daha fazla bilgi"
+
+# type: Content of: <table><tr><td><ul><li>
+msgid "<a href=\"/provide.html\">What we provide</a>"
+msgstr "<a href=\"/provide.html\">Sağladıklarımız</a>"
+
+# type: Content of: <table><tr><td><ul><li>
+msgid "<a href=\"/philosophy/philosophy.html\">Why we exist</a>"
+msgstr "<a href=\"/philosophy/philosophy.html\">Varoluş nedenimiz</a>"
+
+# type: Content of: <table><tr><td><ul><li>
+msgid "<a href=\"/gnu/gnu-history.html\">Where we are going</a>"
+msgstr "<a href=\"/gnu/gnu-history.html\">Gittiğimiz yer</a>"
+
+# type: Content of: <table><tr><td><ul><li>
+msgid "<a href=\"/people/people.html\">Who we are</a>"
+msgstr "<a href=\"/people/people.html\">Kimliğimiz</a>"
+
+# type: Content of: <table><tr><td><ul><li>
+msgid ""
+"<a href=\"http://savannah.gnu.org/\">Our project hosting server, savannah."
+"gnu.org</a>"
+msgstr ""
+"<a href=\"http://savannah.gnu.org/\">savannah.gnu.org, proje barındırma "
+"sunucumuz</a>"
+
+# type: Content of: <table><tr><td><ul><li>
+#, fuzzy
+#| msgid "<a href=\"/manual/manual.html\">GNU Manuals</a>"
+msgid "<a href=\"/manual/manual.html\">GNU documentation</a>"
+msgstr "<a href=\"/manual/manual.html\">GNU Kullanım Klavuzları</a>"
+
+# type: Content of: <table><tr><td><ul><li>
+#, fuzzy
+#| msgid "<a href=\"http://directory.fsf.org/GNU/\">GNU Packages</a>"
+msgid "<a href=\"http://directory.fsf.org/GNU/\">All GNU packages</a>"
+msgstr "<a href=\"http://directory.fsf.org/GNU/\">GNU Paketleri</a>"
+
+# type: Content of: <table><tr><td><ul><li>
+msgid "<a href=\"http://lists.gnu.org/\">GNU mailing lists</a>"
+msgstr "<a href=\"http://lists.gnu.org/\">GNU mektuplaşma listesi</a>"
+
+# type: Content of: <div>
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+# type: Content of: <div><p>
+msgid ""
+"Copyright &copy; 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, "
+"2006, 2007, 2008, 2009, 2010 <a href=\"http://www.fsf.org\">Free Software "
+"Foundation</a>, Inc."
+msgstr ""
+"Copyright &copy; 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, "
+"2006, 2007, 2008, 2009, 2010 <a href=\"http://www.fsf.org\">Free Software "
+"Foundation</a>, Inc."
+
+# type: Content of: <div><p>
+msgid ""
+"Verbatim copying and distribution of this entire article are permitted "
+"worldwide, without royalty, in any medium, provided this notice, and the "
+"copyright notice, are preserved."
+msgstr ""
+"Bu makalenin tamamının kelimesi kelimesine kopyalanmasına ve dağıtılmasına, "
+"ücret talep etmeksizin, herhangi bir ortamda, bu notu ve yazar hakkı "
+"bildirisini korumak şartıyla, dünya çapında izin verilmiştir."
+
+# type: Content of: <div><div>
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"<p><strong>Çeviriye katkıda bulunanlar:</strong></p>\n"
+"<ul>\n"
+"\n"
+"<li>\n"
+"<a href=\"http://www.pittle.org/\">Ali Servet Dönmez</a>\n"
+"<a href=\"mailto:asd@pittle.org\">&lt;asd@pittle.org&gt;</a>,\n"
+"2008, 2010.\n"
+"</li>\n"
+"\n"
+"</ul>"
+
+# type: Content of: <div><p>
+#. timestamp start
+msgid "Last Updated:"
+msgstr "Son Güncelleme:"
+
+# type: Content of: <div><h4>
+msgid ""
+"<a href=\"/server/standards/README.translations.html\">Translations</a> of "
+"this page"
+msgstr ""
+"Bu sayfanın diğer dillere <a href=\"/server/standards/README.translations."
+"html\">çevirileri</a>:"

@@ -1,0 +1,237 @@
+# Turkish translations for 15-years-of-free-software.html package
+# 15-years-of-free-software.html paketi için Türkçe çeviriler
+# Copyright (C) 2008 Free Software Foundation, Inc.
+# This file is distributed under the same license as the 15-years-of-free-software.html package.
+# Ali Servet Dönmez <asd@pittle.org>, 2008, 2009.
+# Beyhan Parlakyıldız <beyhanpar@gmail.com>, 2007.
+# Anıl Mevlüt Güven <anilmevlutguven@mynet.com>, 2007.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 15-years-of-free-software.html\n"
+"POT-Creation-Date: 2009-08-07 04:25-0300\n"
+"PO-Revision-Date: 2009-08-27 11:58+0300\n"
+"Last-Translator: Ali Servet Dönmez <asd@pittle.org>\n"
+"Language-Team: Turkish <www-tr-comm@gnu.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# type: Content of: <title>
+msgid ""
+"15 Years of Free Software - - GNU Project - Free Software Foundation (FSF)"
+msgstr "Özgür Yazılımla 15 Yıl - GNU Projesi - Özgür Yazılım Vakfı (FSF)"
+
+# type: Attribute 'content' of: <meta>
+msgid ""
+"GNU, FSF, Free Software Foundation, freedom, Richard Stallman, rms, free "
+"software movement"
+msgstr ""
+"GNU, FSF, Özgür Yazılım Vakfı, özgürlük, Richard Stallman, rms, özgür "
+"yazılım hareketi"
+
+# type: Attribute 'content' of: <meta>
+msgid ""
+"Richard Stallman discusses the history of the movement to develop a free "
+"operating system."
+msgstr ""
+"Richard Stallman özgür bir işletim sistemi geliştirmek için başlatılan "
+"hareketin geçmişini anlatıyor."
+
+# type: Content of: <h2>
+msgid "15 Years of Free Software"
+msgstr " Özgür Yazılımla 15 Yıl"
+
+# type: Content of: <p>
+msgid "by <strong>Richard M. Stallman</strong>"
+msgstr "yazan <strong>Richard M. Stallman</strong>"
+
+# type: Content of: <p>
+msgid ""
+"It is now just over 15 years since the beginning of the Free Software "
+"Movement and the GNU Project. We have come a long way."
+msgstr ""
+"Özgür Yazılım Hareketi’nin ve GNU Projesi’nin başlangıcından bu yana 15 "
+"yıldan fazla geçti. Uzun bir yol almışız."
+
+# type: Content of: <p>
+msgid ""
+"In 1984, it was impossible to use a modern computer without installing a "
+"proprietary operating system, which you would have to obtain under a "
+"restrictive license. No one was allowed to share software freely with fellow "
+"computer users, and hardly anyone could change software to fit his or her "
+"own needs. The owners of software had erected walls to divide us from each "
+"other."
+msgstr ""
+"1984’te, modern bir bilgisayarı, sınırlayıcı bir lisans altında edinmeniz "
+"gereken özel bir işletim sistemini yüklemeden kullanmak olanaksızdı. "
+"Kimsenin, yazılımı, bilgisayar kullanıcısı arkadaşlarıyla özgürce "
+"paylaşmasına izin verilmezdi ve herhangi biri, yazılımı, kendi "
+"gereksinimlerine uyması için güçlükle değiştirebilirdi. Yazılım sahipleri, "
+"bizi, birbirimizden ayırmak için duvarlar örmüşlerdi."
+
+# type: Content of: <p>
+msgid ""
+"The GNU Project was founded to change all that. Its first goal: to develop a "
+"Unix-compatible portable operating system that would be 100% free software. "
+"Not 95% free, not 99.5%, but 100%&mdash;so that users would be free to "
+"redistribute the whole system, and free to change and contribute to any part "
+"of it. The name of the system, GNU, is a recursive acronym meaning &ldquo;"
+"GNU's Not Unix&rdquo;&mdash;a way of paying tribute to Unix, while at the "
+"same time saying that GNU is something different. Technically, GNU is like "
+"Unix. But unlike Unix, GNU gives its users freedom."
+msgstr ""
+"GNU Projesi, bütün bunları değiştirmek için oluşturuldu. İlk hedefi, Unix "
+"uyumlu, taşınabilir ve %100 özgür yazılım olacak bir işletim sistemi "
+"geliştirmekti. %95 değil, %99,5 değil; %100%&mdash;böylece kullanıcılar, "
+"bütün sistemi yeniden dağıtmak, herhangi bölümünü değiştirmek ve herhangi "
+"bir bölümüne katkıda bulunmak için özgür olacaklardı. Sistemin adı, "
+"yinelemeli bir kısaltma olan GNU, &ldquo;GNU Unix Değildir&rdquo;&mdash;bir "
+"yandan GNU’ nun farklı bir şey olduğunu söylerken, bir yandan da Unix’e "
+"saygılarımızı sunmanın bir yoludur. Teknik açıdan GNU, Unix’e benzer; ancak "
+"Unix’in tersine GNU, kullanıcılarına özgürlük verir."
+
+# type: Content of: <p>
+msgid ""
+"It took many years of work, by hundreds of programmers, to develop this "
+"operating system. Some were paid by the Free Software Foundation and by free "
+"software companies; most were volunteers. A few have become famous; most are "
+"known mainly within their profession, by other hackers who use or work on "
+"their code. All together have helped to liberate the potential of the "
+"computer network for all humanity."
+msgstr ""
+"Bu işletim sistemini geliştirmek, yıllarca süren çalışmalar, yüzlerce "
+"programcılar gerektirdi. Bazı masraflar, Özgür Yazılım Vakfı ve özgür "
+"yazılım şirketleri tarafından karşılandı; çoğu gönüllülerdi. Bazıları ünlü "
+"oldu; çoğunluğu, onların kodunu kullanan ya da onların kodu üzerinde çalışan "
+"diğer hackerler tarafından, büyük ölçüde meslekleriyle tanınırlar. Hepsi "
+"birlikte, bütün insanlık için, bilgisayar ağının gizli gücünün açığa "
+"çıkmasına katkıda bulunmuşlardır."
+
+# type: Content of: <p>
+msgid ""
+"In 1991, the last major essential component of a Unix-like system was "
+"developed: Linux, the free kernel written by Linus Torvalds. Today, the "
+"combination of GNU and Linux is used by millions of people around the world, "
+"and its popularity is growing. This month, we announced release 1.0 of "
+"<acronym title=\"GNU Network Object Model Environment\">GNOME</acronym>, the "
+"GNU graphical desktop, which we hope will make the GNU/Linux system as easy "
+"to use as any other operating system."
+msgstr ""
+"1991’de, Unix benzeri bir sistemin büyük önem taşıyan son bileşeni "
+"geliştirildi: Linux, Linus Torvalds tarafından yazılmış özgür çekirdek. "
+"Bugün, GNU ve Linux’un birleşimi, dünya çapında milyonlarca kişi tarafından "
+"kullanılıyor ve popülerliği büyüyor. Bu ay, GNU/Linux sistemini diğer "
+"işletim sistemleri kadar kolay kullanılır hale getireceğini umduğumuz GNU "
+"grafik masaüstü <acronym title=\"GNU Network Object Model Environment"
+"\">GNOME</acronym> 1.0'ın yayımını duyurduk."
+
+# type: Content of: <p>
+msgid ""
+"But our freedom is not permanently assured. The world does not stand still, "
+"and we cannot count on having freedom five years from now, just because we "
+"have it today. Free software faces difficult challenges and dangers. It will "
+"take determined efforts to preserve our freedom, just as it took to obtain "
+"freedom in the first place. Meanwhile, the operating system is just the "
+"beginning&mdash;now we need to add free applications to handle the whole "
+"range of jobs that users want to do."
+msgstr ""
+"Ancak özgürlüğümüz sonsuza kadar güvence altında değildir. Dünya durağan "
+"değil ve bugün özgürlüğümüz var diye, beş yıl sonra da özgürlüğümüz "
+"olacağına güvenemeyiz. Özgür yazılım, zor meydan okumalar ve tehlikelerle "
+"yüzleşmektedir. Özgürlüğümüzü korumak, tıpkı ilk aşamada özgürlüğü elde "
+"etmenin gerektirdiği gibi, kararlı çabalar gerektirecektir. Bu arada, "
+"işletim sistemi yalnızca bir başlangıçtır&mdash;şimdi, kullanıcıların yapmak "
+"istediği bütün iş alanlarını ele alacak özgür uygulamalar eklemeye "
+"gereksinim duyuyoruz."
+
+# type: Content of: <p>
+msgid ""
+"In future columns, I will be writing about the specific challenges facing "
+"the free software community, and other issues affecting freedom for computer "
+"users, as well as developments affecting the GNU/Linux operating system."
+msgstr ""
+"Gelecekteki yazılarda, özgür yazılım topluluğunun yüzleştiği belli meydan "
+"okumaları ve GNU/Linux işletim sistemini etkileyen gelişmelere ek olarak, "
+"bilgisayar kullanıcıları açısından özgürlüğü etkileyen diğer sorunları "
+"yazacağım."
+
+# type: Content of: <div>
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+# type: Content of: <div><p>
+msgid ""
+"Please send FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org\">&lt;"
+"gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways to "
+"contact</a> the FSF.  <br /> Please send broken links and other corrections "
+"or suggestions to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Lütfen FSF ve GNU hakkındaki sorularınızı <a href=\"mailto:gnu@gnu.org\">&lt;"
+"gnu@gnu.org&gt;</a> adresine gönderin. FSF ile iletişime geçmenin <a href=\"/"
+"contact/\">başka yolları</a> da vardır.<br /> Lütfen çalışmayan bağlantıları "
+"ve diğer düzeltmelerinizi (ya da önerilerinizi) <a href=\"mailto:"
+"webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</a> adresine gönderin."
+
+# type: Content of: <div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"Bu yazının çeviri düzenlemesi ve sunuşu ile ilgili bilgi için lütfen <a href="
+"\"/server/standards/README.translations.html\">Çeviriler BENİOKU</a> "
+"sayfasına bakın."
+
+# type: Content of: <div><p>
+msgid ""
+"Copyright &copy; 1999 Richard M. Stallman <br /> Verbatim copying and "
+"distribution of this entire article is permitted in any medium without "
+"royalty provided this notice is preserved."
+msgstr ""
+"Copyright &copy; 1999 Richard M. Stallman <br /> Bu makalenin tamamının "
+"kelimesi kelimesine kopyalanmasına ve dağıtılmasına, ücret talep etmeksizin, "
+"herhangi bir ortamda, bu notu ve yazar hakkı bildirisini korumak şartıyla, "
+"dünya çapında izin verilmiştir."
+
+# type: Content of: <div><div>
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"<p><strong>Çeviriye katkıda bulunanlar:</strong></p>\n"
+"<ul>\n"
+"\n"
+"<li>\n"
+"<a href=\"http://www.pittle.org/\">Ali Servet Dönmez</a>\n"
+"<a href=\"mailto:asd@pittle.org\">&lt;asd@pittle.org&gt;</a>,\n"
+"2008, 2009.\n"
+"</li>\n"
+"\n"
+"<li>\n"
+"Beyhan Parlakyıldız\n"
+"<a href=\"mailto:beyhanpar@gmail.com\">&lt;beyhanpar@gmail.com&gt;</a>,\n"
+"2007.\n"
+"</li>\n"
+"\n"
+"<li>\n"
+"Anıl Mevlüt Güven\n"
+"<a href=\"mailto:anilmevlutguven@mynet.com\">&lt;anilmevlutguven@mynet."
+"com&gt;</a>,\n"
+"2007.\n"
+"</li>\n"
+"\n"
+"</ul>"
+
+# type: Content of: <div><p>
+#.  timestamp start 
+msgid "Updated:"
+msgstr "Son Güncelleme:"
+
+# type: Content of: <div><h4>
+msgid "Translations of this page"
+msgstr ""
+"Bu sayfanın diğer dillere <a href=\"/server/standards/README.translations."
+"html\">çevirileri</a>:"

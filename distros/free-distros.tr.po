@@ -1,0 +1,250 @@
+# Turkish translations for free-distros.html package
+# free-distros.html paketi için Türkçe çeviriler
+# Copyright (C) 2010 Free Software Foundation, Inc.
+# This file is distributed under the same license as the free-distros.html package.
+# Ali Servet Donmez <asd@pittle.org>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: free-distros.html\n"
+"POT-Creation-Date: 2010-05-18 04:25-0300\n"
+"PO-Revision-Date: 2010-06-03 17:56+0200\n"
+"Last-Translator: Erdem Artan <baDibere@gmail.com>\n"
+"Language-Team: Turkish <www-tr-comm@gnu.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Language: tr_TR\n"
+
+# type: Content of: <title>
+msgid ""
+"List of Free GNU/Linux Distributions - GNU Project - Free Software "
+"Foundation (FSF)"
+msgstr ""
+"Özgür GNU/Linux Dağıtımları Listesi - GNU Projesi - Özgür Yazılım Vakfı (FSF)"
+
+# type: Content of: <h2>
+msgid "Free GNU/Linux distributions"
+msgstr "Özgür GNU/Linux dağıtımları"
+
+# type: Content of: <p>
+msgid ""
+"<em><span class=\"highlight\">The FSF is not responsible for the content of "
+"other web sites, or how up-to-date their content is.</span></em>"
+msgstr ""
+"<em><span class=\"highlight\">FSF diğer web sitelerindeki içerik veya içerik "
+"güncellemelerinden sorumlu değildir.</span></em>"
+
+# type: Content of: <p>
+msgid ""
+"Following are the <a href=\"/gnu/linux-and-gnu.html\">GNU/Linux</a> "
+"distributions we know of which have a firm policy commitment to only include "
+"and only propose free software.  They reject non-free applications, non-free "
+"programming platforms, non-free drivers, or non-free firmware &ldquo;"
+"blobs&rdquo;.  If by mistake they do include any, they remove it.  To learn "
+"more about what makes for a free GNU/Linux distribution, see our <a href=\"/"
+"distros/free-system-distribution-guidelines.html\">Guidelines for Free "
+"System Distributions</a>."
+msgstr ""
+"Bu sayfada yer alan dağıtımlar, sadece özgür yazılım içerme ve sadece özgür "
+"yazılım önerme konusunda tam bağlılık politikası olduğunu bildiğimiz <a href="
+"\"/gnu/linux-and-gnu.html\">GNU/Linux</a> dağıtımlarıdır.  Özgür olmayan "
+"uygulamaları, yazılım geliştirme ortamlarını, sürücüleri, donanım sürücüsü "
+"&ldquo;blobları&rdquo; reddediyorlar.  Kazara dahil ederlerse, "
+"kaldırıyorlar.  Özgür bir GNU/Linux dağıtımı için nelerin yapılacağını "
+"öğrenmek için <a href=\"/distros/free-system-distribution-guidelines.html"
+"\">Özgür Sistem Dağıtımları Yönergesi</a>ni okuyunuz."
+
+# type: Content of: <p>
+msgid ""
+"We list <a href=\"/links/companies.html\">companies that sell hardware "
+"preinstalled with a free GNU/Linux distribution</a> separately."
+msgstr ""
+"<a href=\"/links/companies.html\">Burada</a> özgür GNU/Linux dağıtımı "
+"yüklenmiş bilgisayarlar satan şirketleri bulabilirsiniz."
+
+# type: Content of: <p>
+msgid ""
+"If you know of a distribution that may qualify but isn't listed here, please "
+"ask the distribution's maintainers if they want to follow these free "
+"software principles.  If they do, and they would like their distribution to "
+"be listed here, they should write to &lt;gnu@gnu.org&gt;.  Some "
+"distributions are making efforts to move toward a completely free system.  "
+"We thank them for their ongoing work to achieve that goal, and hope to list "
+"them here some day."
+msgstr ""
+"Bir dağıtımın özgür olarak nitelendirilebileceğini düşünüyor fakat listede "
+"bulamadıysanız, dağıtımın geliştiricilerine bu özgür yazılım prensiplerini "
+"takip etmek isteyip istemediklerini sorun.  Olumluysa ve dağıtımlarının bu "
+"listede yer almasını isterlerse, &lt;gnu@gnu.org&gt; adresine e-posta "
+"göndermeleri gerekmekte.  Bazı dağıtımlar tamamen özgür bir sistem için çaba "
+"harcamakta.  Onlara bu amaca ulaşmak için sürdürdükleri çalışma için "
+"teşekkür eder ve birgün burada o dağıtımları listelemeyi dileriz."
+
+# type: Content of: <p>
+msgid ""
+"If you're wondering why a certain popular distribution isn't listed here, "
+"you may want to check our page explaining <a href=\"/distros/common-distros."
+"html\">why we don't endorse some common distributions</a>.  There, we've "
+"listed the reasons why several well-known distributions don't meet our "
+"guidelines."
+msgstr ""
+"Popüler bir dağıtımın neden listelenmediğini merak ediyorsanız, belki <a "
+"href=\"/distros/common-distros.html\">bazı dağıtımları neden "
+"desteklemediğimizi açıklayan sayfamızı</a> ziyaret etmek istersiniz.  O "
+"sayfada, bizim yönergemize uymayan birkaç popüler dağıtımın desteklenmeme "
+"nedenlerini listeledik."
+
+# type: Content of: <p>
+msgid ""
+"All of the distributions that follow are installable to a computer's hard "
+"drive and most can be run live.  They are listed in alphabetical order."
+msgstr ""
+"Listelenen dağıtımların tümü bilgisayarların sabit sürücülerine yüklenebilir "
+"ve çoğu çalışan cd olarak çalıştırılabilir. Alfabetik olarak "
+"sıralanmışlardır."
+
+# type: Content of: <ul><li>
+msgid ""
+"<a href=\"http://www.blagblagblag.org/\">BLAG</a>, BLAG Linux and GNU, a GNU/"
+"Linux distribution based on Fedora."
+msgstr ""
+"<a href=\"http://www.blagblagblag.org/\">BLAG</a>: Fedora tabanlı bir GNU/"
+"Linux dağıtımı."
+
+# type: Content of: <ul><li>
+msgid ""
+"<a href=\"http://dragora.usla.org.ar/wiki/doku.php\">Dragora</a>, an "
+"independent GNU/Linux distribution based on concepts of simplicity."
+msgstr ""
+"<a href=\"http://dragor.usla.org.ar/wiki/doku.php\">Dragora</a>: sadelik "
+"üzerine kurulu bağımsız bir GNU/Linux dağıtımı."
+
+# type: Content of: <ul><li>
+msgid ""
+"<a href=\"http://dynebolic.org/\">Dynebolic</a>, a GNU/Linux distribution, "
+"with a special emphasis on audio and video editing."
+msgstr ""
+"<a href=\"http://dynebolic.org/\">Dynebolic</a>: Ses ve görüntü üzerinde "
+"özelleştirilmiş bir GNU/Linux dağıtımı."
+
+# type: Content of: <ul><li>
+msgid ""
+"<a href=\"http://www.gnewsense.org/\">gNewSense</a>, a GNU/Linux "
+"distribution based on Debian and Ubuntu."
+msgstr ""
+"<a href=\"http://www.gnewsense.org/\">gNewSense</a>: Debian ve Ubuntu "
+"tabanlı bir GNU/Linux dağıtımı."
+
+# type: Content of: <ul><li>
+msgid ""
+"<a href=\"http://kongoni.co.za/\">Kongoni</a>, a free GNU/Linux operating "
+"system of African origin. The name comes from the Shona word for a gnu (also "
+"known as a wildebeest)."
+msgstr ""
+"<a href=\"http://kongoni.co.za/\">Kongoni</a>: Afrika kökenli bir GNU/Linux "
+"dağıtımı. İsmi, anlamı gnu yani afrika antilopu olan bir Şona kelimesinden "
+"gelmektedir."
+
+# type: Content of: <ul><li>
+msgid ""
+"<a href=\"http://www.musix.org.ar/\">Musix GNU+Linux</a>, a GNU/Linux "
+"distribution based on Knoppix, with special emphasis on audio production."
+msgstr ""
+"<a href=\"http://www.musix.org.ar/\">Musix GNU+Linux</a>: Ses yapımcılığı "
+"üzerine özelleştirilmiş, Knoppix tabanlı bir GNU/Linux dağıtımı."
+
+# type: Content of: <ul><li>
+msgid ""
+"<a href=\"http://trisquel.info/en/\">Trisquel</a>, a GNU/Linux distribution "
+"oriented to small enterprises, domestic users and educational centers."
+msgstr ""
+"<a href=\"http://trisquel.info/en/\">Trisquel</a>: Küçük şirketler, ev "
+"kullanıcıları ve eğitim merkezlerine yönelik bir GNU/Linux dağıtımı."
+
+# type: Content of: <ul><li>
+msgid ""
+"<a href=\"http://www.ututo.org/www/\">Ututo</a>, a GNU/Linux distribution "
+"based on Gentoo.  It was the first fully free GNU/Linux system recognized by "
+"the GNU Project."
+msgstr ""
+"<a href=\"http://www.ututo.org/www/\">Ututo</a>: Gentoo tabanlı bir GNU/"
+"Linux dağıtımı.  Ututo GNU Projesi tarafından tanınan tamamen özgür ilk GNU/"
+"Linux sistemidir."
+
+# type: Content of: <ul><li>
+msgid ""
+"<a href=\"http://venenux.org/\">Venenux</a>, a GNU/Linux distribution built "
+"around the KDE desktop."
+msgstr ""
+"<a href=\"http://venenux.org/\">Venenux</a>: KDE masaüstü kullanan bir GNU/"
+"Linux dağıtımı."
+
+# type: Content of: <div>
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+# type: Content of: <div><p>
+msgid ""
+"Please send FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org\">&lt;"
+"gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways to "
+"contact</a> the FSF.  <br /> Please send broken links and other corrections "
+"or suggestions to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Lütfen FSF ve GNU hakkındaki sorularınızı <a href=\"mailto:gnu@gnu.org"
+"\"><em>gnu@gnu.org</em></a> adresine gönderin. FSF ile iletişime geçmenin <a "
+"href=\"/contact/\">başka yolları</a> da vardır.<br /> Lütfen çalışmayan "
+"bağlantıları ve diğer düzeltmelerinizi (ya da önerilerinizi) <a href=\"\n"
+"\"mailto:webmasters@gnu.org\"><em>webmasters@gnu.org</em></a> adresine "
+"gönderin."
+
+# type: Content of: <div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"Bu yazının çeviri düzenlemesi ve sunuşu ile ilgili bilgi için lütfen <a href="
+"\"/server/standards/README.translations.html\">Çeviriler BENİOKU</"
+"a>sayfasına bakın. "
+
+# type: Content of: <div><p>
+msgid "Copyright &copy; 2010 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2010 Free Software Foundation, Inc."
+
+# type: Content of: <div><p>
+msgid ""
+"Verbatim copying and distribution of this entire article is permitted in any "
+"medium without royalty provided this notice is preserved."
+msgstr ""
+"Bu makalenin tamamının kelimesi kelimesine kopyalanmasına ve dağıtılmasına, "
+"ücret talep etmeksizin, herhangi bir ortamda, bu notu ve yazar "
+"hakkıbildirisini korumak şartıyla, dünya çapında izin verilmiştir. "
+
+# type: Content of: <div><div>
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"<p><strong>Çeviriye katkıda bulunanlar:</strong></p>\n"
+"<ul>\n"
+"\n"
+"<li>\n"
+"Erdem Artan\n"
+"<a href=\"mailto:baDibere@gmail.com\">&lt;baDibere@gmail.com&gt;</a>,\n"
+"2010.\n"
+"</li>\n"
+"</ul>"
+
+# type: Content of: <div><p>
+#.  timestamp start
+msgid "Updated:"
+msgstr "Son Güncelleme:"
+
+# type: Content of: <div><h4>
+msgid "Translations of this page"
+msgstr ""
+"Bu sayfanın diğer dillere <a href=\"/server/standards/README.translations."
+"html\">çevirileri</a>:"

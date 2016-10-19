@@ -1,0 +1,179 @@
+# Turkish translations for free-software-intro.html package
+# free-software-intro.html paketi için Türkçe çeviriler
+# Copyright (C) 2008 Free Software Foundation, Inc.
+# This file is distributed under the same license as the
+free-software-intro.html package.
+# Ali Servet Dönmez <asd@pittle.org>, 2008.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: free-software-intro.html\n"
+"POT-Creation-Date: 2008-08-25 16:25-0300\n"
+"PO-Revision-Date: 2011-04-26 11:20+0200\n"
+"Last-Translator: Tahir Emre Kalaycı <tekrei+ceviri@gmail.com>\n"
+"Language-Team: Turkish <www-tr-comm@gnu.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# type: Content of: <title>
+msgid "Free Software movement - GNU Project - Free Software Foundation (FSF)"
+msgstr "Özgür Yazılım Hareketi - GNU Projesi - Özgür Yazılım Vakfı (FSF)"
+
+# type: Content of: <h2>
+msgid "Free Software Movement"
+msgstr "Özgür Yazılım Hareketi"
+
+# type: Content of: <p>
+msgid "People use free software operating systems such as <a
+href=\"/gnu/linux-and-gnu.html\">GNU/Linux</a> for various reasons.  Many users
+switch for practical reasons: because the system is powerful, because it is
+reliable, or for the convenience of being able to change the software to do what
+you need."
+msgstr "İnsanlar, <a href=\"/gnu/linux-and-gnu.html\">GNU/Linux</a> gibi özgür
+işletim sistemlerini çeşitli nedenler için kullanırlar. Birçok kullanıcı,
+kullanışlı nedenlerden kullanırlar: çünkü sistem güçlüdür, güvenilirdir ya da
+gereksiniminiz olan şeye dönüştürebilmenize uygundur."
+
+# type: Content of: <p>
+msgid "Those are good reasons&mdash;but there is more at stake than just
+convenience.  What's at stake is your freedom, and your community."
+msgstr "Bunlar iyi nedenlerdir, ancak ortada uygunluktan daha fazla neden
+vardır. Bunlar da sizin özgürlüğünüz ve topluluğunuzdur."
+
+# type: Content of: <p>
+msgid "The idea of the Free Software Movement is that computer users <a
+href=\"/philosophy/why-free.html\">deserve the freedom to form a community</a>. 
+You should have the freedom to help yourself, by changing the source code to do
+whatever you need to do.  And the freedom to help your neighbor, by
+redistributing copies of programs to other people.  Also the freedom to help
+build your community, by publishing improved versions so that other people can
+use them."
+msgstr "Özgür Yazılım Hareketi'nin arkasındaki fikir, bilgisayarın
+kullanıcılarının <a href=\"/philosophy/why-free.html\">istediklerinde özgürce
+bir topluluk kurabilme özgürlüklerinin olmasıdır</a>. Herne yapmak istiyorsanız,
+kaynak kodunu değiştirerek, kendinize yardım etme özgürlüğünüz olmalıdır. Başka
+insanlara programların kopyalarını dağıtarak, komşunuza yardım etme özgürlüğünüz
+de olmalıdır. Aynı zamanda diğer insanların kullanabilmesi için gelişmiş
+sürümleri yayınlayarak, kendi topluluğunuzu oluşturma özgürlüğünüz de
+olmalıdır."
+
+# type: Content of: <p>
+msgid "Whether a program is free software depends on its license.  Our <a
+href=\"/philosophy/free-sw.html\"> detailed definition </a> of free software
+shows how we evaluate a license to see if it makes programs free software.  We
+also have articles about <a
+href=\"/philosophy/philosophy.html#LicensingFreeSoftware\"> certain specific
+licenses</a> explaining the advantages and disadvantages of some licenses that
+do qualify, and why some other licenses are too restrictive to qualify."
+msgstr "Bir programın özgür bir yazılım olup olmadığı, onun lisansına bağlıdır.
+Bizim <a href=\"/philosophy/free-sw.html\">ayrıntılı özgür yazılım
+tanımımız</a>, bir lisansın bir yazılımı özgür yazılım yapışını nasıl
+değerlendirdiğimizi gösterir. Aynı zamanda özgür saydığımız diğer lisansların
+getiri ve götürüleri ile özgür olmayan diğer lisansların neden kabul
+edilemeyecek kadar sınırlandırıcı oldukları hakkında yazdığımız <a
+href=\"/philosophy/philosophy.html#LicensingFreeSoftware\">bazı özel durumlarla
+ilgili</a> yazılarımız da vardır."
+
+# type: Content of: <p>
+msgid "In 1998 the term &ldquo;open source&rdquo; was coined and associated with
+<a href=\"/philosophy/open-source-misses-the-point.html\"> views considerably
+different from ours</a>.  These views cite only the practical advantages of free
+software, and carefully avoid the deeper issues of freedom and social solidarity
+that the Free Software Movement raises.  Open source is good as far as it goes,
+but it only scratches the surface of the issue.  We don't mind working with
+supporters of open source on practical activities such as software development,
+but we do not agree with their views, and we decline to operate under their
+name."
+msgstr "1998'de &ldquo;açık kaynak&rdquo; terimi bulundu ve <a
+href=\"/philosophy/open-source-misses-the-point.html\">bizden tamamen farklı
+görüşlerle</a> ilişkilendi. Bu görüşler özgür yazılımın sadece pratik
+avantajlarına atıfta bulunur ve Özgür Yazılım Hareketinin ortaya koyduğu
+özgürlük ve sosyal dayanışmanın derin konularından dikkatlice kaçınır. Açık
+kaynak gidebildiği kadar iyidir, ancak konunun sadece yüzeyini gösterir. Açık
+kaynak destekleyicileriyle yazılım geliştirme gibi pratik konularda çalışmaktan
+çekinmiyoruz, ancak onların görüşlerine katılmıyoruz ve onların isimleri altında
+çalışmayı red ediyoruz."
+
+# type: Content of: <p>
+msgid "If you think that freedom and community are important for their own sake,
+please join us in proudly using the term &ldquo;free software&rdquo;, and help
+spread the word."
+msgstr "Eğer özgürlüğün ve topluluğun kendileri için önemli olduklarını
+düşünüyorsanız, &ldquo;özgür yazılım&rdquo; terimini gururla kullanarak lütfen
+bize katılın ve bu ifadenin yayılmasına yardımcı olun."
+
+# type: Content of: <div>
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+# type: Content of: <div><p>
+msgid "Please send FSF &amp; GNU inquiries to <a
+href=\"mailto:gnu@gnu.org\"><em>gnu@gnu.org</em></a>.  There are also <a
+href=\"/contact/\">other ways to contact</a> the FSF.  <br /> Please send broken
+links and other corrections or suggestions to <a
+href=\"mailto:webmasters@gnu.org\"><em>webmasters@gnu.org</em></a>."
+msgstr "Lütfen FSF ve GNU ile ilgili sorularınızı <a
+href=\"mailto:gnu@gnu.org\"><em>gnu@gnu.org</em></a> adresine iletin. FSF ile
+iletişim kurmanın <a href=\"/contact/\">başka yolları</a> da vardır.<br />Lütfen
+çalışmayan bağlantıları ve başka düzeltmeleri veya önerilerinizi <a
+href=\"mailto:webmasters@gnu.org\"><em>webmasters@gnu.org</em></a> adresine
+gönderin."
+
+# type: Content of: <div><p>
+msgid "Please see the <a
+href=\"/server/standards/README.translations.html\">Translations README</a> for
+information on coordinating and submitting translations of this article."
+msgstr "Bu makale için çeviri göndermek veya çevirileri düzenlemek için lütfen
+<a href=\"/server/standards/README.translations.html\">çeviriler hakkındaki
+BENİOKU</a> dosyasına bakınız."
+
+# type: Content of: <div><p>
+msgid "Copyright &copy; 1999, 2007, 2008 Free Software Foundation, Inc.,"
+msgstr "Copyright &copy; 1999, 2007, 2008 Free Software Foundation, Inc.,"
+
+# type: Content of: <div><address>
+msgid "51 Franklin St, Fifth Floor, Boston, MA 02110, USA"
+msgstr "51 Franklin St, Fifth Floor, Boston, MA 02110, USA"
+
+# type: Content of: <div><p>
+msgid "Verbatim copying and distribution of this entire article is permitted in
+any medium, provided this notice is preserved."
+msgstr "Bu makalenin tamamının kelimesi kelimesine kopyalanmasına ve
+dağıtılmasına, ücret talep etmeksizin, herhangi bir ortamda, bu notu ve yazar
+hakkı bildirisini korumak şartıyla, dünya çapında izin verilmiştir."
+
+# type: Content of: <div><div>
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"<p>\n"
+"<strong>Çeviriye katkıda bulunanlar:</strong>\n"
+"<ul>\n"
+"\n"
+"<li>\n"
+"<a href=\"http://www.pittle.org/\">T. E. Kalaycı</a>\n"
+"2011.\n"
+"</li>\n"
+"\n"
+"<li>\n"
+"<a href=\"http://www.pittle.org/\">Ali Servet Dönmez</a>\n"
+"<a href=\"mailto:asd@pittle.org\">&lt;asd@pittle.org&gt;</a>,\n"
+"2008.\n"
+"</li>\n"
+"\n"
+"</ul>\n"
+"</p>"
+
+# type: Content of: <div><p>
+#. timestamp start
+msgid "Updated:"
+msgstr "Son Güncelleme:"
+
+# type: Content of: <div><h4>
+msgid "Translations of this page"
+msgstr "Bu sayfanın diğer dillere <a
+href=\"/server/standards/README.translations.html\">çevirileri</a>:"
+

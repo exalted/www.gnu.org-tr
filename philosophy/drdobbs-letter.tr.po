@@ -1,0 +1,253 @@
+# Turkish translations for drdobbs-letter.html package
+# drdobbs-letter.html paketi için Türkçe çeviriler
+# Copyright (C) 2008 Free Software Foundation, Inc.
+# This file is distributed under the same license as the drdobbs-letter.html package.
+# Ali Servet Dönmez <asd@pittle.org>, 2008.
+# Fatma Ekşioğlu <fatma.eksioglu@gmail.com>, 2007.
+# Anıl Mevlüt Güven <anilmevlutguven@mynet.com>, 2007.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: drdobbs-letter.html\n"
+"POT-Creation-Date: 2008-08-25 16:25-0300\n"
+"PO-Revision-Date: 2008-11-04 13:07+0100\n"
+"Last-Translator: Ali Servet Dönmez <asd@pittle.org>\n"
+"Language-Team: Turkish <www-tr-comm@gnu.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# type: Content of: <title>
+msgid ""
+"Letter to the Editor of Dr. Dobb's Journal - GNU Project - Free Software "
+"Foundation (FSF)"
+msgstr ""
+"Dr. Dobb'un Gazetesi editörüne mektup - GNU Projesi - Özgür Yazılım Vakfı "
+"(FSF)"
+
+# type: Content of: <h2>
+msgid "Letter to the Editor of Dr. Dobb's Journal"
+msgstr "Dr. Dobb'un Gazetesi editörüne mektup"
+
+# type: Content of: <p>
+msgid "Dear Editor,"
+msgstr "Değerli Editör,"
+
+# type: Content of: <p>
+msgid ""
+"I am sure you don't realize how ironic it is to associate me and Tim "
+"O'Reilly with &ldquo;open source&rdquo;."
+msgstr ""
+"Eminim ki, Tim O'Reilly’i ve beni &ldquo;Açık kaynak&rdquo; ile "
+"bağdaştırmanın ne kadar alaycı olduğunun farkında değilsiniz."
+
+# type: Content of: <p>
+msgid ""
+"If the House Un-American Activities Committee asked me, &ldquo;Are you now "
+"or have you ever been a supporter of the open source movement,&rdquo; I "
+"could proudly and cheerfully say no.  I've been campaigning since 1984 for "
+"<em>free software</em>&mdash;free as in freedom.  (See the GNU Manifesto, "
+"Dr. Dobb's Journal, Sept. 1985.)"
+msgstr ""
+"Eğer House Un-American Activities Committee (HUAC) bana, &ldquo;Açık kaynak "
+"hareketini desteklediniz mi veya destekliyor musunuz?&rdquo; diye sorsaydı, "
+"gururla ve keyifle hayır derdim. 1984’ten beri <em>özgür yazılım</em> &mdash;"
+"özgürlükte olduğu gibi özgür yazılım için mücadele ediyorum. (Bkz. GNU "
+"Bildirisi, Dr. Dobb’un bülteni, Eylül 1985.)"
+
+# type: Content of: <p>
+msgid ""
+"Free software means, roughly, that you are free to study what it does, free "
+"to change it, free to redistribute it, and free to publish improved "
+"versions.  (See <a href=\"/philosophy/free-sw.html\">http://www.gnu.org/"
+"philosophy/free-sw.html</a> for more details.)  You deserve these freedoms; "
+"everyone deserves them.  I wrote the GNU General Public License (GNU GPL), "
+"the target of <a href=\"/philosophy/gpl-american-way.html\">Microsoft's "
+"greatest ire</a>, to defend these freedoms for all users, in the spirit of "
+"the free software movement."
+msgstr ""
+"Özgür yazılım, kabaca, yaptığı şeyi incelemekte, değiştirmekte, yeniden "
+"dağıtmakta ve geliştirilmiş sürümlerini dağıtmakta özgür olduğunuz anlamına "
+"gelir. (Ayrıntılı bilgi için <a href=\"/philosophy/free-sw.html\">http://www."
+"gnu.org/philosophy/free-sw.html</a> adresine bakınız.) Siz bu özgürlükleri "
+"hak ediyorsunuz; herkes hak ediyor. Tüm kullanıcılar için olan bu "
+"özgürlükleri savunmak için, özgür yazılım hareketi ruhu içerisinde, GNU "
+"Genel Kamu Lisansını (GPL), <a href=\"/philosophy/gpl-american-way.html"
+"\">Microsoft’un en büyük öfkesini</a> ben yazdım."
+
+# type: Content of: <p>
+msgid ""
+"Years later, in 1998, another group began operating under the term &ldquo;"
+"open source&rdquo;.  They have contributed to the free software community in "
+"practical ways, but they stand for very different views.  They studiously "
+"avoid the issues of freedom and principle that we raise in the free software "
+"movement; they cite only short-term practical benefits as the reasons for "
+"what they do."
+msgstr ""
+"Yıllar sonra, 1998’de, başka bir grup &ldquo;açık kaynak&rdquo; terimi "
+"altında çalışmaya başladı. Özgür yazılım topluluğuna pratik yollarla katkıda "
+"bulundular, ancak çok farklı görüşleri savunuyorlar. Bizim özgür yazılım "
+"hareketinde öne sürdüğümüz özgürlük ve ahlak konularından titizlikle "
+"kaçınıyorlar; yaptıkları şeylere neden olarak yalnızca kısa-dönemli pratik "
+"kazançları gösteriyorlar. "
+
+# type: Content of: <p>
+msgid ""
+"Their stated definition for the term &ldquo;open source&rdquo; is somewhat "
+"broader than free software, and thus includes my work.  But describing the "
+"GNU GPL as an &ldquo;open source license,&rdquo; as Microsoft did, is more "
+"than half misleading.  The GNU GPL embodies the firm philosophy of the free "
+"software movement; it doesn't come from the open source movement.  I am not "
+"a supporter of the open source movement, and never have been."
+msgstr ""
+"&ldquo;Açık kaynak&rdquo; terimi için belirledikleri tanımlama, özgür "
+"yazılımdan biraz daha geniş ve bu nedenle benim işimi de kapsıyor. Ancak GNU "
+"GPL’i, &ldquo;açık kaynak lisansı&rdquo; olarak tanımlamak, Microsoft’un "
+"yaptığı gibi, yanıltıcı olmaktan daha fazlası. GNU GPL, özgür yazılım "
+"hareketinin sağlam felsefesini şekillendiriyor; açık kaynak hareketinden "
+"gelmiyor. Ben açık kaynak hareketinin savunucusu değilim ve hiçbir zaman da "
+"olmadım."
+
+# type: Content of: <p>
+msgid ""
+"Tim O'Reilly, by contrast, is a pillar of the open source movement, at least "
+"to hear him tell it.  However, if you look at actions rather than words, "
+"most of the manuals published by O'Reilly Associates do not qualify as open "
+"source, let alone as free.  The handful of free titles are exceptions.  He "
+"could easily excuse himself to <abbr title=\"House Un-American Activities "
+"Committee\">HUAC</abbr>&mdash;&ldquo;Yes, I talked about open source, but I "
+"didn't really do much of it.&rdquo;"
+msgstr ""
+"Tim O'Reilly, tersine, açık kaynak hareketinin destekçisidir, en azından "
+"öyle söylediğini duyabilirsiniz. Ancak, sözcüklere değil de yapılan işlere "
+"bakarsanız, O'Reilly Associates tarafından yayımlanan kullanım "
+"kılavuzlarının birçoğu açık kaynak değil, yalnızca özgür niteliği "
+"taşıyorlar. Az sayıdaki özgürlük başlıkları ise istisna. O’Reilly, kolayca "
+"<abbr title=\"House Un-American Activities Committee\">HUAC</abbr>’dan af "
+"dileyebilir&mdash;&ldquo;Evet, açık kaynak hakkında konuştum, ama gerçekte "
+"bu konuda fazla bir şey yapmadım.&rdquo;"
+
+# type: Content of: <p>
+msgid ""
+"If O'Reilly moves to selling free-as-in-freedom books in the future, he "
+"could become a true supporter of the free software movement, or at least the "
+"open source movement.  [Later in 2001, O'Reilly Associates published a "
+"couple of additional free books.  We are grateful for this contribution to "
+"the free software community, and we look forward to more of the same.]"
+msgstr ""
+"Eğer O'Reilly gelecekte özgürlükte-olduğu-gibi özgür kitaplar satmaya "
+"başlarsa, gerçek bir özgür yazılım destekçisi ya da en azından açık kaynak "
+"yazılım destekçisi haline gelebilir. [Daha sonraları 2001’de, O'Reilly "
+"Associates fazladan birkaç özgür kitap yayımladı. Bizler, özgür yazılım "
+"topluluğuna yaptıkları bu katkıdan dolayı minnettarız ve onlardan bunun gibi "
+"daha fazla katkılar bekliyoruz.]"
+
+# type: Content of: <p>
+msgid ""
+"With the recent founding of FSF-Europe, and the coming inauguration of FSF-"
+"India, the free software movement is going stronger than ever.  Please don't "
+"lump us in with the other movement in our community."
+msgstr ""
+"FSF-Avrupa’nın yakın zamanda kurulması ve FSF-Hindistan’ın yakında göreve "
+"başlayacak olmasıyla birlikte, özgür yazılım hareketi her zamankinden daha "
+"da güçlü hale geliyor. Lütfen topluluğumuzdaki diğer hareketle bizi "
+"karıştırmayın."
+
+# type: Content of: <p>
+msgid "Sincerely,"
+msgstr "Saygılarımla,"
+
+# type: Content of: <p>
+msgid ""
+"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Richard Stallman President, Free Software "
+"Foundation"
+msgstr ""
+"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Başkan Richard Stallman, Özgür Yazılım Vakfı"
+
+# type: Content of: <div>
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+# type: Content of: <div><p>
+msgid ""
+"Please send FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org"
+"\"><em>gnu@gnu.org</em></a>.  There are also <a href=\"/contact/\">other "
+"ways to contact</a> the FSF.  <br /> Please send broken links and other "
+"corrections or suggestions to <a href=\"mailto:webmasters@gnu.org"
+"\"><em>webmasters@gnu.org</em></a>."
+msgstr ""
+"Lütfen FSF ve GNU hakkındaki sorularınızı <a href=\"mailto:gnu@gnu.org"
+"\"><em>gnu@gnu.org</em></a> adresine gönderin. FSF ile iletişime geçmenin <a "
+"href=\"/contact/\">başka yolları</a> da vardır.<br /> Lütfen çalışmayan "
+"bağlantıları ve diğer düzeltmelerinizi (ya da önerilerinizi) <a href="
+"\"mailto:webmasters@gnu.org\"><em>webmasters@gnu.org</em></a> adresine "
+"gönderin."
+
+# type: Content of: <div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"Bu yazının çeviri düzenlemesi ve sunuşu ile ilgili bilgi için lütfen <a href="
+"\"/server/standards/README.translations.html\">Çeviriler BENİOKU</a> "
+"sayfasına bakın."
+
+# type: Content of: <div><p>
+msgid "Copyright &copy; 2000, 2007 Free Software Foundation, Inc.,"
+msgstr "Copyright &copy; 2000, 2007 Free Software Foundation, Inc.,"
+
+# type: Content of: <div><address>
+msgid "51 Franklin St, Fifth Floor, Boston, MA 02110, USA"
+msgstr "51 Franklin St, Fifth Floor, Boston, MA 02110, USA"
+
+# type: Content of: <div><p>
+msgid ""
+"Verbatim copying and distribution of this entire article is permitted in any "
+"medium, provided this notice is preserved."
+msgstr ""
+"Bu makalenin tamamının kelimesi kelimesine kopyalanmasına ve dağıtılmasına, "
+"ücret talep etmeksizin, herhangi bir ortamda, bu notu ve yazar hakkı "
+"bildirisini korumak şartıyla, dünya çapında izin verilmiştir."
+
+# type: Content of: <div><div>
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"<p><strong>Çeviriye katkıda bulunanlar:</strong></p>\n"
+"<ul>\n"
+"\n"
+"<li>\n"
+"<a href=\"http://www.pittle.org/\">Ali Servet Dönmez</a>\n"
+"<a href=\"mailto:asd@pittle.org\">&lt;asd@pittle.org&gt;</a>,\n"
+"2008.\n"
+"</li>\n"
+"\n"
+"<li>\n"
+"Fatma Ekşioğlu\n"
+"<a href=\"mailto:fatma.eksioglu@gmail.com\">&lt;fatma.eksioglu@gmail.com&gt;"
+"</a>,\n"
+"2007.\n"
+"</li>\n"
+"\n"
+"<li>\n"
+"Anıl Mevlüt Güven\n"
+"<a href=\"mailto:anilmevlutguven@mynet.com\">&lt;anilmevlutguven@mynet."
+"com&gt;</a>,\n"
+"2007.\n"
+"</li>\n"
+"\n"
+"</ul>"
+
+# type: Content of: <div><p>
+#.  timestamp start 
+msgid "Updated:"
+msgstr "Son Güncelleme:"
+
+# type: Content of: <div><h4>
+msgid "Translations of this page"
+msgstr ""
+"Bu sayfanın diğer dillere <a href=\"/server/standards/README.translations."
+"html\">çevirileri</a>:"

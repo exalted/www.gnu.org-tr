@@ -1,0 +1,72 @@
+# Turkish translations for body-include-2.html package
+# banner.html paketi için Türkçe çeviriler
+# Copyright (C) 2008 Free Software Foundation, Inc.
+# This file is distributed under the same license as the banner.html package.
+# Ali Servet Dönmez <asd@pittle.org>, 2008, 2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: body-include-2.html\n"
+"POT-Creation-Date: 2010-04-30 16:25-0300\n"
+"PO-Revision-Date: 2010-09-02 23:40+0100\n"
+"Last-Translator: Tahir Emre Kalaycı <tekrei+ceviri@gmail.com>\n"
+"Language-Team: Turkish <www-tr-comm@gnu.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# type: Content of: <body><div><div><div><h1>
+msgid "<a href=\"/\">The GNU Operating System</a>"
+msgstr "<a href=\"/\">GNU İşletim Sistemi</a>"
+
+# type: Content of: <div><div><div><a>
+msgid ""
+"<a href=\"http://patentabsurdity.com/watch.html\" title=\"Watch Patent "
+"Absurdity\">"
+msgstr ""
+"<a href=\"http://patentabsurdity.com/watch.html\" title=\"Patent "
+"Saçmalığı'nı İzleyin\">"
+
+# type: Content of: <div><div><div>
+msgid "</a>"
+msgstr "</a>"
+
+# type: Content of: <body><div><div><div><ul><li>
+msgid "<a href=\"/philosophy/philosophy.html\">Philosophy</a>"
+msgstr "<a href=\"/philosophy/philosophy.html\">Felsefe</a>"
+
+# type: Content of: <body><div><div><div><ul><li>
+msgid "<a href=\"/licenses/licenses.html\">Licenses</a>"
+msgstr "<a href=\"/licenses/licenses.html\">Lisanslar</a>"
+
+# type: Content of: <body><div><div><div><ul><li>
+msgid "<a href=\"/software/software.html\">Downloads</a>"
+msgstr "<a href=\"/software/software.html\">Yazılımlar</a>"
+
+# type: Content of: <body><div><div><div><ul><li>
+#| msgid "<a href=\"/software/software.html\">Downloads</a>"
+msgid "<a href=\"/doc/doc.html\">Documentation</a>"
+msgstr "<a href=\"/doc/doc.html\">Belgeler</a>"
+
+# type: Content of: <body><div><div><div><ul><li>
+msgid "<a href=\"/help/help.html\">Help&nbsp;GNU</a>"
+msgstr "<a href=\"/help/help.html\">GNU'ya&nbsp;Yardım&nbsp;Et</a>"
+
+# type: Content of: <body><div><div><div><ul><li>
+msgid ""
+"<a href=\"https://www.fsf.org/associate/support_freedom?referrer=4052\">Join "
+"the FSF!</a>"
+msgstr ""
+"<a href=\"https://www.fsf.org/associate/support_freedom?"
+"referrer=4052\">FSF'ye katılın!</a>"
+
+# type: Content of: <body><div><div><form><div>
+msgid ""
+"<label class=\"netscape4\" for=\"phrase\">Search:</label> <input name="
+"\"phrase\" id=\"phrase\" type=\"text\" size=\"18\" accesskey=\"s\" value="
+"\"Why GNU/Linux?\" /> <input type=\"submit\" value=\"Search\" />"
+msgstr ""
+"<label class=\"netscape4\" for=\"phrase\">Arama:</label> <input name=\"phrase"
+"\" id=\"phrase\" type=\"text\" size=\"18\" accesskey=\"a\" value=\"Neden GNU/"
+"Linux?\" /> <input type=\"submit\" value=\"Ara\" />"

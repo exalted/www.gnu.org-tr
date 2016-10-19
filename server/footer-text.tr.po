@@ -1,0 +1,49 @@
+# Turkish translations for footer-text.html package
+# footer-text.html paketi için Türkçe çeviriler
+# Copyright (C) 2008 Free Software Foundation, Inc.
+# This file is distributed under the same license as the footer-text.html package.
+# Ali Servet Dönmez <asd@pittle.org>, 2008.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: footer-text.html\n"
+"POT-Creation-Date: 2009-10-06 16:25-0300\n"
+"PO-Revision-Date: 2010-01-08 16:01+0100\n"
+"Last-Translator: Ali Servet Dönmez <asd@pittle.org>\n"
+"Language-Team: Turkish <www-tr-comm@gnu.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# type: Content of: <div><p>
+msgid "<a href=\"#header\">back to top</a>"
+msgstr "<a href=\"#header\">başa dön</a>"
+
+# type: Content of: <div><h2>
+msgid "Check out other Free Software Foundation campaigns"
+msgstr "Diğer Özgür Yazılım Kampanyalarını gözden geçirin"
+
+# type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"http://defectivebydesign.org/\">Defective by Design</a>, a "
+"campaign against Digital Restrictions Management (DRM)"
+msgstr ""
+"<a href=\"http://defectivebydesign.org/\">Defective by Design</a>, a "
+"campaign against Digital Restrictions Management (DRM)"
+
+# type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"http://windows7sins.org/\">Windows 7 Sins</a>, the case against "
+"Microsoft and proprietary software"
+msgstr ""
+"<a href=\"http://windows7sins.org/\">Windows 7 Sins</a>, the case against "
+"Microsoft and proprietary software"
+
+# type: Content of: <div><ul><li>
+msgid ""
+"<a href=\"http://playogg.org/\">PlayOgg</a> &mdash; support free media "
+"formats"
+msgstr ""
+"<a href=\"http://playogg.org/\">PlayOgg</a> &mdash; support free media "
+"formats"

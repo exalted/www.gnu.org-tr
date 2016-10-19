@@ -1,0 +1,228 @@
+# Turkish translations for gnu-users-never-heard-of-gnu.html package
+# gnu-users-never-heard-of-gnu.html paketi için Türkçe çeviriler
+# Copyright (C) 2008 Free Software Foundation, Inc.
+# This file is distributed under the same license as the gnu-users-never-heard-of-gnu.html package.
+# Ali Servet Dönmez <asd@pittle.org>, 2008, 2009.
+# İşbaran Akçayır <isbaran@gmail.com>, 2007.
+# Anıl Mevlüt Güven <anilmevlutguven@mynet.com>, 2007.
+# Umut Odabaşı <umutodabasi85@gmail.com>, 2007.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnu-users-never-heard-of-gnu.html\n"
+"POT-Creation-Date: 2009-05-24 04:27-0300\n"
+"PO-Revision-Date: 2009-08-27 11:54+0300\n"
+"Last-Translator: Ali Servet Dönmez <asd@pittle.org>\n"
+"Language-Team: Turkish\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# type: Content of: <title>
+msgid ""
+"GNU Users Who Have Never Heard of GNU - GNU Project - Free Software "
+"Foundation (FSF)"
+msgstr ""
+"GNU'yu hiç duymamış olan GNU kullanıcıları - GNU Projesi - Özgür Yazılım "
+"Vakfı (FSF)"
+
+# type: Content of: <h2>
+msgid "GNU Users Who Have Never Heard of GNU"
+msgstr "GNU'yu hiç duymamış olan GNU kullanıcıları"
+
+# type: Content of: <p>
+msgid ""
+"<strong>by <a href=\"http://www.stallman.org/\">Richard Stallman</a></strong>"
+msgstr ""
+"<strong>yazan, <a href=\"http://www.stallman.org/\">Richard Stallman</a></"
+"strong>"
+
+# type: Content of: <div><blockquote><p>
+msgid ""
+"To learn more about this issue, you can also read our <a href=\"/gnu/gnu-"
+"linux-faq.html\">GNU/Linux FAQ</a>, our page on <a href=\"/gnu/why-gnu-linux."
+"html\">Why GNU/Linux?</a> and our page on <a href=\"/gnu/linux-and-gnu.html"
+"\">Linux and the GNU Project</a>."
+msgstr ""
+"Bu konuda daha fazla bilgi için, <a href=\"/gnu/gnu-linux-faq.html\">GNU/"
+"Linux SSS</a> ve <a href=\"/gnu/why-gnu-linux.html\">Neden GNU/Linux</a> "
+"sayfamıza ve ayrıca <a href=\"/gnu/linux-and-gnu.html\">Linux ve GNU "
+"Projesi</a> sayfamıza göz atabilirsiniz."
+
+# type: Content of: <p>
+msgid ""
+"Most people have never heard of GNU.  Even most of the people who use the "
+"GNU system have never heard of GNU, thanks to so many people and companies "
+"who teach them to call it &ldquo;Linux&rdquo;.  Nonetheless, the name GNU "
+"has certain associations, which people will discover once they hear the "
+"name.  GNU is associated with the ideals of freedom of the free software "
+"movement.  That association is no accident; the motive for developing GNU "
+"was specifically to make it possible to use a computer and have freedom."
+msgstr ""
+"Çoğu insan, GNU'yu hiç duymamıştır. GNU'yu, &ldquo;Linux&rdquo; diye "
+"tanımlayan insanlar sağ olsunlar. GNU sistemlerini kullanan bir sürü insan "
+"bile, GNU'yu hiç duymamıştır. Bununla beraber, GNU'nun, insanlar duyduğunda "
+"çağrıştırdığı bazı bağları vardır. GNU, özgür yazılım hareketinin özgürlük "
+"kavramı amacıyla bağlantılıdır. Bu bağ, rastlantısal değildir. GNU’nun "
+"geliştirilmesini güdüleyen şey, bir bilgisayarın kullanımına olanak verme ve "
+"bu işi özgürce yapmanızı sağlamaktır."
+
+# type: Content of: <p>
+msgid ""
+"The association between the name GNU and our goals of freedom and social "
+"solidarity exists in the minds of hundreds of thousands of GNU/Linux users "
+"that do know about GNU.  It exists in Wikipedia.  And it exists around the "
+"web; if these users search for GNU, they will find <a href=\"http://www.gnu."
+"org\">www.gnu.org</a>, which talks about free software and freedom."
+msgstr ""
+"Özgürlük ve toplumsal birlik amaçlarımız arasındaki bağ, GNU adıyla, GNU "
+"nedir bilmeyen yüz binlerce GNU/Linux kullanıcısının aklında oluşmaktadır. "
+"Wikipedia'da ve ağın dört bir yanında. Eğer, kullanıcılar, GNU hakkında "
+"araştırma yaparsa, özgür yazılım ve özgürlük konularını içeren bir <a href="
+"\"http://www.gnu.org\">www.gnu.org</a> bulacaklardır."
+
+# type: Content of: <p>
+msgid ""
+"A person seeing the name &ldquo;GNU&rdquo; for the first time in &ldquo;GNU/"
+"Linux&rdquo; won't immediately associate it with anything.  However, when "
+"people know that the system is basically GNU, that brings them a step closer "
+"to learning about our ideals.  For instance, they might become curious and "
+"look for more information about GNU."
+msgstr ""
+"&ldquo;GNU/Linux&rdquo; içindeki &ldquo;GNU&rdquo; adını ilk defa gören "
+"birisi, bir şeylerle bağ kuramayacaktır. Ancak, insanlar, sistemin temel "
+"olarak GNU olduğunu öğrendiklerinde, onları, amaçlarımızı öğrenmeye bir adım "
+"daha yakınlaşmış görürüz. Örneğin, biraz merakla, GNU hakkında daha fazla "
+"veri aramaya başlayabilirler."
+
+# type: Content of: <p>
+msgid ""
+"If they don't look for it, they may encounter it anyway.  The &ldquo;open "
+"source&rdquo; rhetoric tends to lead people's attention away from issues of "
+"users' freedom, but not totally; there is still discussion of GNU and free "
+"software, and people have some chance of coming across it.  When that "
+"happens, the reader is more likely to pay attention to information about GNU "
+"(such as that it's the work of a campaign for freedom and community) if he "
+"knows he is a user of the GNU system."
+msgstr ""
+"Eğer aramazlarsa, nasıl olsa karşılarına çıkacaktır. &ldquo;Açık "
+"kaynak&rdquo; sanatı, insanları kullanıcıların özgürlükleri düşüncesinden "
+"uzaklaştırmaya çalışsa da, durum tam olarak böyle değildir. Hala GNU ve "
+"özgür yazılım hakkında konuşmalar olmakta ve böylece insanların GNU ile "
+"karşılaşma olasılıkları da bulunmaktadır. Bu olduğunda, eğer okuyucu, bir "
+"GNU sistemi kullandığını biliyorsa, GNU hakkında daha çok bilgiye ulaşmak "
+"istiyor-özgürlük ve toplum için, bir kampanyanın işiymiş gibi- demektir."
+
+# type: Content of: <p>
+msgid ""
+"Over time, calling the system &ldquo;GNU/Linux&rdquo; spreads awareness of "
+"the ideals of freedom for which we developed the GNU system.  It is also "
+"useful as a reminder for people in our community who know about these "
+"ideals, in a world where much of discussion of free software takes a totally "
+"practical (and thus amoral) approach.  When we ask you to call the system "
+"&ldquo;GNU/Linux&rdquo;, we do so because awareness of GNU slowly but surely "
+"brings with it awareness of the free software ideals of freedom and "
+"community."
+msgstr ""
+"Zamanla, sistemi, &ldquo;GNU/Linux&rdquo; olarak adlandırmak, GNU sistemini "
+"geliştirme amacımız olan özgürlük kavramını yaymaya yardımcı olur. Özgür "
+"yazılım hakkında tartışmaların bütünüyle deneyimsizce ve erdem dışı "
+"yapıldığı bir dünyada, topluluğumuz, bu amaçların ayırdında olanlara, "
+"amaçları hatırlatıcı bir görev üstlenmiştir. Sizden, sistemi \"GNU/Linux\" "
+"olarak adlandırmanızı istediğimizde, GNU’nun farkında olmanın, yavaş yavaş "
+"ama kesinlikle özgür yazılım amaçlarının topluma kazandırılması demek "
+"olduğunu söylemek istiyoruz."
+
+# type: Content of: <div>
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't have notes.
+msgid "*GNUN-SLOT: TRANSLATOR'S NOTES*"
+msgstr " "
+
+# type: Content of: <div><p>
+msgid ""
+"Please send FSF &amp; GNU inquiries to <a href=\"mailto:gnu@gnu.org\">&lt;"
+"gnu@gnu.org&gt;</a>.  There are also <a href=\"/contact/\">other ways to "
+"contact</a> the FSF.  <br /> Please send broken links and other corrections "
+"or suggestions to <a href=\"mailto:webmasters@gnu.org\">&lt;webmasters@gnu."
+"org&gt;</a>."
+msgstr ""
+"Lütfen FSF ve GNU hakkındaki sorularınızı <a href=\"mailto:gnu@gnu.org\">&lt;"
+"gnu@gnu.org&gt;</a> adresine gönderin. FSF ile iletişime geçmenin <a href=\"/"
+"contact/\">başka yolları</a> da vardır.<br />Lütfen çalışmayan bağlantıları "
+"ve diğer düzeltmelerinizi (ya da önerilerinizi) <a href=\"mailto:"
+"webmasters@gnu.org\">&lt;webmasters@gnu.org&gt;</a> adresine gönderin."
+
+# type: Content of: <div><p>
+msgid ""
+"Please see the <a href=\"/server/standards/README.translations.html"
+"\">Translations README</a> for information on coordinating and submitting "
+"translations of this article."
+msgstr ""
+"Bu yazının çeviri düzenlemesi ve sunuşu ile ilgili bilgi için lütfen <a href="
+"\"/server/standards/README.translations.html\">Çeviriler BENİOKU</a> "
+"sayfasına bakın."
+
+# type: Content of: <div><p>
+msgid "Copyright &copy; 2006, 2007 Free Software Foundation, Inc."
+msgstr "Copyright &copy; 2006, 2007 Free Software Foundation, Inc."
+
+# type: Content of: <div><p>
+msgid ""
+"Verbatim copying and distribution of this entire article are permitted "
+"worldwide, without royalty, in any medium, provided this notice, and the "
+"copyright notice, are preserved."
+msgstr ""
+"Bu makalenin tamamının kelimesi kelimesine kopyalanmasına ve dağıtılmasına, "
+"ücret talep etmeksizin, herhangi bir ortamda, bu notu ve yazar hakkı "
+"bildirisini korumak şartıyla, dünya çapında izin verilmiştir."
+
+# type: Content of: <div><div>
+#. TRANSLATORS: Use space (SPC) as msgstr if you don't want credits.
+msgid "*GNUN-SLOT: TRANSLATOR'S CREDITS*"
+msgstr ""
+"<p><strong>Çeviriye katkıda bulunanlar:</strong></p>\n"
+"<ul>\n"
+"\n"
+"<li>\n"
+"<a href=\"http://www.pittle.org/\">Ali Servet Dönmez</a>\n"
+"<a href=\"mailto:asd@pittle.org\">&lt;asd@pittle.org&gt;</a>,\n"
+"2008, 2009.\n"
+"</li>\n"
+"\n"
+"<li>\n"
+"İşbaran Akçayır\n"
+"<a href=\"mailto:isbaran@gmail.com\">&lt;isbaran@gmail.com&gt;</a>,\n"
+"2007.\n"
+"</li>\n"
+"\n"
+"<li>\n"
+"Anıl Mevlüt Güven\n"
+"<a href=\"mailto:anilmevlutguven@mynet.com\">&lt;anilmevlutguven@mynet."
+"com&gt;</a>,\n"
+"2007.\n"
+"</li>\n"
+"\n"
+"<li>\n"
+"Umut Odabaşı\n"
+"<a href=\"mailto:umutodabasi85@gmail.com\">&lt;umutodabasi85@gmail.com&gt;</"
+"a>,\n"
+"2007.\n"
+"</li>\n"
+"\n"
+"</ul>"
+
+# type: Content of: <div><p>
+#.  timestamp start 
+msgid "Updated:"
+msgstr "Son Güncelleme:"
+
+# type: Content of: <div><h4>
+msgid "Translations of this page"
+msgstr ""
+"Bu sayfanın diğer dillere <a href=\"/server/standards/README.translations."
+"html\">çevirileri</a>:"
+
+# type: Content of: <div><address>
+#~ msgid "51 Franklin St, Fifth Floor, Boston, MA 02110, USA"
+#~ msgstr "51 Franklin St, Fifth Floor, Boston, MA 02110, USA"
